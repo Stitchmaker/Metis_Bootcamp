@@ -1,0 +1,1205 @@
+,ID,Name,School_ID,School,District,9_PR,10_PR,11_PR,12_PR,Grad_Yr
+0,290897,Tyler King,298,Coupeville,District 3,271.44,264.5,255.28,252.97,2011
+1,239023,Bereket Piatt,358,Port Townsend,District 3,276.0,265.58,268.16,265.2,2011
+2,262221,Ethan Tonnemaker,330,Royal,District 5,293.9,278.42,281.35,275.15,2011
+3,536508,Hap Emmons,345,King's,District 1,283.22,264.46,261.56,257.71,2012
+4,330570,Michael Milbank,301,Bellevue Christian,District 3,302.14,284.32,284.2,289.45,2011
+5,133603,Neal Barber,308,University Prep,District 2,300.8,296.35,287.54,294.5,2010
+6,264195,Mitch Beard,352,Nooksack Valley,District 1,295.71,291.4,280.61,265.71,2012
+7,252196,Colin Andrus,360,Vashon Island,District 3,300.03,296.14,309.0,280.64,2011
+8,519501,Damon Halvorsen,338,Tonasket,District 6,301.96,290.17,285.57,280.81,2012
+9,358215,Brian Santman,364,Forks,District 4,312.0,303.0,303.0,305.1,2011
+10,151688,Miguel Reyes,368,Columbia (White Salmon),District 4,340.0,315.17,306.32,311.64,2010
+11,783276,Jasper Heckman,357,Orting,District 3,308.55,298.31,289.1,283.29,2012
+12,298242,Mackenze Bemis,353,Chimacum,District 3,335.69,309.0,319.0,301.35,2011
+13,243663,Josh Sowinski,345,King's,District 1,352.5900000000001,315.87,302.19,301.82,2011
+14,243666,Matte Bailey,345,King's,District 1,321.25,322.33,299.13,299.66,2011
+15,765084,Quinn L'Heureux,353,Chimacum,District 3,327.75,316.0,306.0,311.76,2012
+16,828341,David Dykstra,352,Nooksack Valley,District 1,336.3,333.46,332.6,338.3400000000001,2012
+17,536584,Nick Fielden,309,Seattle Academy,District 2,338.67,334.71,326.51,320.19,2012
+18,247743,Jacob Strickland,309,Seattle Academy,District 2,376.09,355.28,332.9,328.61,2011
+19,537320,Trevor Mayes,306,Northwest,District 2,356.4,330.3,310.61,298.4,2012
+20,567362,Troy Horn,310,Cascade Christian,District 3,361.84,311.8,311.03,320.39,2012
+21,831145,Jonathan Yu,345,King's,District 1,396.0,292.3400000000001,287.94,301.15,2012
+22,536514,Nick Fuller,345,King's,District 1,404.32,374.59,354.0,359.04,2012
+23,235177,Kyle Kosak,369,La Center,District 4,311.75,313.3,285.43,277.1,2011
+24,117585,Tristin Tingey,366,Montesano,District 4,355.0,298.53,319.0,294.87,2010
+25,762317,Kody Shriver,321,Kalama,District 4,319.64,284.2,281.3,271.5,2012
+26,532961,Kyle Agnew,367,Rochester,District 4,334.0,310.31,320.0,321.34,2012
+27,886067,John James,364,Forks,District 4,349.0,352.16,319.7,347.8,2012
+28,525466,Kyle Brightman,377,Kiona-Benton,District 5,317.9,296.73,294.81,288.96,2012
+29,849956,Dominic Changala,378,Naches Valley,District 5,319.3,298.52,307.91,335.49,2012
+30,192315,Venny Garza,374,Connell,District 5,334.05,350.8,323.4,301.36,2010
+31,217574,Brad Fuchs,324,River View,District 5,381.0,361.0,350.0,389.0,2009
+32,120704,Tyler Williams,398,Burlington-Edison,District 1,273.82,275.54,259.12,262.13,2010
+33,144655,Kevin Aubol,460,Ellensburg,District 5,300.1,274.84000000000003,272.9,262.58,2009
+34,155557,TJ Hesselgesser,463,Selah,District 5,309.2,286.78,271.82,266.73,2009
+35,239870,Dakota Parker,458,W F West,District 4,273.32,268.15,261.2,259.1,2011
+36,256040,Chase Bussing,447,Mark Morris,District 4,280.9,270.1,265.39,273.0,2011
+37,243526,Todd Jackson,363,Elma,District 4,287.9,270.23,255.46,257.78,2011
+38,268334,Nicholas Schippers,20538,Kingston,District 3,311.8,271.35,260.39,256.99,2011
+39,155540,James Currell,463,Selah,District 5,316.8,297.0,282.43,274.24,2009
+40,102898,Zach Bryan,359,Steilacoom,District 3,279.1,284.0,275.95,276.0,2010
+41,144668,Matt Glenn,460,Ellensburg,District 5,306.54,293.82,279.94,272.13,2010
+42,268336,Austin Cherry,20538,Kingston,District 3,307.4,281.2,277.0,276.63,2011
+43,798358,Dakota Phillips,451,Black Hills,District 4,282.4,274.91,277.58,279.97,2012
+44,242430,Chad Linnerooth,394,Cedarcrest,District 1,296.06,282.51,285.0,275.31,2011
+45,342632,Dylan Croeni,449,Washougal,District 4,343.6,283.0,271.7,262.99,2011
+46,249936,Alex Jenkins,428,Sequim,District 3,291.23,283.66,276.92,272.55,2011
+47,534700,Jeffrey Ott,460,Ellensburg,District 5,284.8,274.96,265.61,272.62,2012
+48,285547,Christian Culp,347,Sultan,District 1,294.71,285.1,281.51,281.9,2011
+49,118095,Hunter Bennett,403,Squalicum,District 1,305.0,277.49,285.21,278.4,2010
+50,117645,Luke Bonagofski,458,W F West,District 4,320.1,304.4,285.23,286.0,2010
+51,155594,Kyle Smith,463,Selah,District 5,319.84,298.2,291.0,287.73,2010
+52,144674,Devin McCrary,460,Ellensburg,District 5,338.7,317.86,291.22,291.21,2010
+53,342665,Nate Starr,447,Mark Morris,District 4,289.0,292.0,276.31,268.9,2011
+54,155588,Vinny Robbins,463,Selah,District 5,321.76,308.0,293.56,299.35,2010
+55,512498,Terry McClement,397,Bellingham,District 1,293.96,281.44,275.8,269.44,2012
+56,123371,A.J. Pieczynski,348,Blaine,District 1,325.6,321.1,299.1,303.98,2010
+57,509337,Mitchell Montgomery,394,Cedarcrest,District 1,306.13,282.21,269.1,253.83,2012
+58,248328,Aaron Ballard,348,Blaine,District 1,334.0,306.89,338.0,301.4,2011
+59,285550,Timmy Franz,347,Sultan,District 1,327.18,310.77,298.0,293.07,2011
+60,537137,Paulin Fleishman,400,Lynden,District 1,311.9,290.12,286.7,293.0,2012
+61,796247,Dallas Coble,398,Burlington-Edison,District 1,313.1,294.0,284.2,273.8,2012
+62,509322,Dante Bournique,394,Cedarcrest,District 1,314.6,313.88,309.2,326.14,2012
+63,254827,Loren Bickley,396,Anacortes,District 1,346.0,320.0,316.0,332.6,2011
+64,519302,Liam Horner,402,Sehome,District 1,320.0,331.0,310.1,293.8,2012
+65,297404,Josh Doerksen,400,Lynden,District 1,340.1,321.7,316.74,322.0,2011
+66,533825,Will Zink,395,South Whidbey,District 1,322.39,313.9,306.77,303.31,2012
+67,837227,Weylin Radbourne,394,Cedarcrest,District 1,332.2,328.0,326.26,340.52,2012
+68,248078,Chris Gouette,346,Lakewood,District 1,365.2,334.71,362.81,316.64,2011
+69,303981,Jacob Mutch,394,Cedarcrest,District 1,366.7,347.3,324.8,322.8,2011
+70,710187,James Nelson,347,Sultan,District 1,348.6,315.6,300.52,290.5900000000001,2012
+71,509333,Justin Konersmann,394,Cedarcrest,District 1,424.84,376.18,340.5,369.4,2012
+72,512487,Ethan Gerard,397,Bellingham,District 1,330.4,324.5,317.3,328.1,2012
+73,512496,Tye Jorgenson,397,Bellingham,District 1,339.7,325.2,335.0,329.5,2012
+74,534243,Alexander Terrell,398,Burlington-Edison,District 1,342.46,343.0,324.4,322.32,2012
+75,303154,Zackary Jenson,427,North Mason,District 3,302.2,295.0,309.43,290.79,2011
+76,526895,Keith Ryan,356,Klahowya,District 3,313.0,298.6,283.92,287.98,2012
+77,526887,Dane Ballou,356,Klahowya,District 3,315.8,295.41,291.73,286.33,2012
+78,100838,Justin Larsen,438,Fife,District 3,339.9,312.52,328.03,330.0,2010
+79,263747,Grant Baird,370,Ridgefield,District 4,322.2,294.2,285.3,299.0,2011
+80,360605,Bryce Knutzen,457,Tumwater,District 4,336.0,298.7,293.0,282.51,2011
+81,185339,Ray Nugent,448,R A Long,District 4,327.8,303.5,299.5,296.0,2010
+82,185345,Nathan Richards,448,R A Long,District 4,345.0,324.0,301.1,288.0,2010
+83,807936,Josh Burnett,452,Aberdeen,District 4,309.73,303.0,302.0,295.33,2012
+84,103562,Kelly Loch,447,Mark Morris,District 4,323.27,307.4,312.6,305.3,2010
+85,558733,David Klinginsmith,447,Mark Morris,District 4,314.9,292.8,286.0,283.5,2012
+86,807941,Nick Spencer,452,Aberdeen,District 4,316.39,303.4,285.49,277.92,2012
+87,533404,Travis Bright,448,R A Long,District 4,329.0,328.1,316.6,312.0,2012
+88,242059,Kyle Smart,457,Tumwater,District 4,330.6,334.0,312.65,313.6,2011
+89,832583,Regan Heaton,458,W F West,District 4,342.5,325.31,328.2,323.43,2012
+90,257733,Kelly Reymont,448,R A Long,District 4,387.0,378.0,364.0,345.6,2011
+91,350423,Jordan White,453,Centralia,District 4,401.0,426.0,356.0,366.0,2011
+92,543201,Brad Kahn,463,Selah,District 5,296.97,295.81,288.0900000000001,281.5,2012
+93,155603,Alex Yager,463,Selah,District 5,334.2,318.73,297.27,310.37,2010
+94,534692,Caleb Carolan,460,Ellensburg,District 5,314.32,290.06,277.64,281.09000000000003,2012
+95,790263,Connor Schneider,375,East Valley (Yakima),District 5,315.0,307.11,301.67,291.57,2012
+96,316552,Cameron Kobes,380,Toppenish,District 5,329.59,316.34,305.7,293.4,2011
+97,350547,William Lane,462,Prosser,District 5,359.64,322.0,318.05,294.07,2011
+98,316591,Freddy Lustre,380,Toppenish,District 5,342.0900000000001,327.42,332.43,311.84,2011
+99,553705,Brandon Sampson,380,Toppenish,District 5,332.16,326.37,327.41,319.4,2012
+100,543196,Cameron Ford,463,Selah,District 5,342.13,314.74,286.57,320.23,2012
+101,951362,Aurelio Guevara,379,Othello,District 5,363.77,327.0,310.93,321.63,2012
+102,850521,Kaleb Merrick,462,Prosser,District 5,380.7,340.85,328.42,324.14,2012
+103,858018,Gilberto Elizarraraz,379,Othello,District 5,390.0,340.21,327.68,322.31,2012
+104,536893,Micah Berg,392,Pullman,District 7,349.7,320.4,305.65,296.0,2012
+105,340780,Steven Robinson,415,Bishop Blanchet,District 2,275.01,257.92,259.59,264.0,2011
+106,120007,Joseph McConaughy,405,Shorecrest,District 1,287.3,271.38,262.73,263.25,2010
+107,156134,Josh Reiter,450,Camas,District 4,275.35,269.99,263.31,265.88,2010
+108,534406,Marcus Dickson,443,White River,District 3,265.94,259.17,252.76,241.77,2012
+109,407495,Matt Crichlow,481,Meadowdale,District 1,282.4,271.48,262.48,264.79,2011
+110,531392,Roman Kirkov,20354,Union,District 4,271.9,270.84,259.31,255.5,2012
+111,334705,Sean McDonald,425,Seattle Prep,District 2,303.2,275.27,262.75,262.89,2011
+112,245195,Joseph Matheson,466,West Valley (Yakima),District 6,295.0,279.85,281.54,272.98,2011
+113,550206,Abraham Berhe,420,Ingraham,District 2,275.3,266.05,282.6,287.5,2010
+114,222856,Albert Rodriguez,461,Hanford,District 5,293.5,288.9,282.62,275.96,2010
+115,155286,Maxx Antush,439,Franklin Pierce,District 3,295.4,280.93,284.3,274.3,2010
+116,254487,Angelo Comeaux,475,Everett,District 1,293.0,288.01,266.41,264.97,2011
+117,522419,Mason Newton,475,Everett,District 1,290.1,284.64,286.26,275.19,2012
+118,254477,Stephen Coombs,475,Everett,District 1,311.0,305.2,322.0,286.71,2011
+119,254484,Ben Dowdle,475,Everett,District 1,309.1,305.64,297.85,291.68,2011
+120,531191,Danny Shippen,481,Meadowdale,District 1,325.05,328.14,320.09,337.31,2012
+121,827851,Mike Popkins,475,Everett,District 1,360.4,322.48,310.3,328.04,2012
+122,830284,Alan Fung,481,Meadowdale,District 1,370.84,362.47,371.77,372.04,2012
+123,340788,Spencer Sherman,415,Bishop Blanchet,District 2,330.54,290.1,300.0,283.39,2011
+124,169535,Trevor Robinson,422,Nathan Hale,District 2,313.4,308.1,294.1,277.3,2010
+125,323025,Ethan Davis,422,Nathan Hale,District 2,305.2,297.0,276.8,279.9,2011
+126,544238,Noah Heidenreich,422,Nathan Hale,District 2,297.7,294.8,286.2,281.0,2012
+127,560457,Brian Comer,418,Eastside Catholic,District 2,312.76,309.0,307.0,291.44,2012
+128,515138,Brian Masterson,421,Lakeside (Seattle),District 2,320.8,278.37,265.48,261.68,2012
+129,524521,Connor O'Keefe,414,Bainbridge,District 2,329.1,335.58,312.6,335.3,2012
+130,544245,Moshe Gordon,422,Nathan Hale,District 2,346.1,302.7,318.1,297.7,2012
+131,254475,Brian Piette,444,Columbia River,District 4,299.38,285.7,280.5,275.5,2011
+132,252241,Nate Tandecki,433,Lindbergh,District 3,293.6,287.05,280.8,290.54,2011
+133,247512,Alexander Corsi,454,North Thurston,District 3,291.8400000000001,288.06,294.69,298.4,2011
+134,519560,Nick Borg,441,Peninsula,District 3,289.33,277.78,276.82,269.82,2012
+135,547490,Kyle Ramsey,509,North Kitsap,District 3,290.23,285.4,281.58,272.17,2012
+136,534408,Kody Gould,443,White River,District 3,290.5,278.62,273.55,256.62,2012
+137,524401,Mark Garcia,433,Lindbergh,District 3,296.46,277.68,279.29,273.62,2012
+138,295907,Reed Hawkins,19375,Bonney Lake,District 3,313.86,296.73,292.85,290.5,2011
+139,519568,Curtis King,441,Peninsula,District 3,297.9,267.79,260.45,252.14,2012
+140,858750,David Griffith,503,Capital,District 3,298.2,297.0,280.72,290.1,2012
+141,6349118,Tanner Sork,20354,Union,District 4,299.0,292.27,272.0,275.9,2012
+142,295888,Andrew Allen,19375,Bonney Lake,District 3,316.2,300.14,311.5,325.9,2011
+143,304595,Saugat Poudel,435,Renton,District 3,318.01,300.28,283.08,274.83,2011
+144,239135,Tyler Spear,509,North Kitsap,District 3,290.89,300.3,290.86,339.8,2011
+145,533921,Adriel Paine IV,435,Renton,District 3,301.6,291.29,271.71,273.13,2012
+146,239122,Alexander Cook,509,North Kitsap,District 3,304.9,307.3,287.63,327.5,2011
+147,538921,Sam Zimmerman,509,North Kitsap,District 3,327.1,302.1,308.28,306.16,2012
+148,239128,Corey Nelson,509,North Kitsap,District 3,344.1,328.1,318.7,340.9,2011
+149,836759,Aslan DaVault,435,Renton,District 3,316.89,286.7,280.52,277.64,2012
+150,252238,Kevin Jensen,433,Lindbergh,District 3,328.83,324.29,310.07,337.96,2011
+151,836761,Thien Doan,435,Renton,District 3,333.7,316.39,309.5,307.73,2012
+152,533915,Joseph Dytioco,435,Renton,District 3,334.94,331.3,297.97,302.98,2012
+153,858693,Tyler Pascual,435,Renton,District 3,354.62,321.42,299.64,292.8,2012
+154,538344,Dylan Summerlin,19386,Auburn Mountainview,District 3,303.1,278.5,271.57,272.53,2012
+155,259056,Jobe Layton,524,Sumner,District 3,292.28,305.5,302.14,301.0,2011
+156,259049,Josh Bacon,524,Sumner,District 3,303.3,310.3,304.64,336.11,2011
+157,938561,Cory Johnson,519,Enumclaw,District 3,318.9,279.96,281.9,262.93,2012
+158,537914,Justin Richenburg,519,Enumclaw,District 3,319.9,315.5,312.3,319.6,2012
+159,115989,Anthony Bertolucci,524,Sumner,District 3,345.3,341.74,324.49,301.2,2010
+160,542793,Ethan Rumbaugh,19386,Auburn Mountainview,District 3,333.7,306.73,284.52,277.8,2012
+161,115841,Danny Toft,19375,Bonney Lake,District 3,358.0,368.56,349.01,373.4,2010
+162,113781,Jesse Valentine-Lopez,19375,Bonney Lake,District 3,342.8,385.83,359.83,375.13,2010
+163,306550,Brandon Sharp,503,Capital,District 3,322.2,307.1,314.12,298.33,2011
+164,239616,Kyle Rizzieri,503,Capital,District 3,324.4,314.3,318.42,338.33,2011
+165,306516,Aaron Nelson,503,Capital,District 3,339.0,320.6,300.0,295.91,2011
+166,239617,Vivek Sandhinti,503,Capital,District 3,316.7,324.1,303.3,295.99,2011
+167,803027,Duncan Davis-Hall,503,Capital,District 3,341.3,320.45,319.7,298.3400000000001,2012
+168,497360,Peter Cadero-Smith,459,Yelm,District 3,347.0,330.8,332.29,330.33,2012
+169,523268,Weston Baker,459,Yelm,District 3,359.0,322.2,315.67,313.43,2012
+170,541628,Noel Hathaway,461,Hanford,District 5,298.33,275.31,286.93,278.01,2012
+171,145989,Jacob Rogers,464,Sunnyside,District 6,301.3,296.66,295.9,302.51,2009
+172,146011,Patrick Watts,464,Sunnyside,District 6,317.41,292.26,302.57,307.04,2010
+173,530432,Chase Mears,466,West Valley (Yakima),District 6,306.04,292.28,280.34000000000003,267.59,2012
+174,324837,Jordan Grier,461,Hanford,District 5,335.87,326.31,328.56,291.65,2011
+175,530436,Dallin Olander,466,West Valley (Yakima),District 6,349.48,336.99,299.49,288.99,2012
+176,132221,Quinton Olivas,548,Southridge,District 5,281.0,268.57,259.02,257.92,2010
+177,249041,Miles Hille,497,Redmond,District 2,282.44,263.54,267.39,262.13,2011
+178,147200,Evan Fiske,544,Kamiakin,District 5,277.2,266.74,263.87,262.7,2010
+179,7063318,Anthoney Armstrong,544,Kamiakin,District 5,266.91,257.94,250.61,250.72,2012
+180,256829,German Silva,543,Eisenhower,District 6,283.31,267.76,260.63,271.57,2011
+181,147251,Justin Yoke,544,Kamiakin,District 5,342.18,289.38,268.34,262.57,2010
+182,250079,Will Ferguson,527,Curtis,District 3,296.0,269.07,260.48,261.41,2011
+183,246358,Kyle Branch,499,Skyline,District 2,280.23,269.5,261.01,261.08,2011
+184,305883,Dylan Brown,518,Auburn Riverside,District 3,282.75,270.0,265.86,271.09,2011
+185,149274,Caleb Parker,547,Richland,District 5,285.98,286.7,273.13,270.27,2009
+186,295963,Isaac Robinson,408,Issaquah,District 2,289.3,271.27,267.82,263.9,2011
+187,193615,Deshawn Williams,530,Federal Way,District 3,307.0,285.0,271.76,263.3,2010
+188,850963,Danny Lunder,523,Kentwood,District 3,272.64,266.83,266.6,262.6,2012
+189,533597,John-Paul Wolpert,549,Walla Walla,District 5,274.78,264.88,261.86,258.82,2012
+190,244355,Ryan Thompson,474,Edmonds-Woodway,District 1,306.88,288.3400000000001,282.27,274.1,2011
+191,844616,Matt Reith,485,Oak Harbor,District 1,294.12,280.76,273.81,267.17,2012
+192,174167,Lucas Chase,472,Arlington,District 1,354.9,318.0,294.3,303.06,2010
+193,437414,Nicholas Larson,473,Cascade (Everett),District 1,364.0,296.89,300.0,287.36,2011
+194,531561,Steven Statham,473,Cascade (Everett),District 1,298.74,278.87,272.51,270.5,2012
+195,523517,Wade Weinert,488,Stanwood,District 1,304.6,284.43,281.0,268.96,2012
+196,307154,Michael Krantz,488,Stanwood,District 1,335.06,306.5,300.79,306.39,2011
+197,523505,Micah Losee,488,Stanwood,District 1,315.62,293.02,284.95,283.68,2012
+198,803016,CJ Alumbaugh,488,Stanwood,District 1,321.14,310.11,310.0,307.9,2012
+199,241016,Bryson Olson,472,Arlington,District 1,312.0,322.53,303.2,301.3,2011
+200,521603,Andrew Bosket,472,Arlington,District 1,324.08,312.63,288.63,269.02,2012
+201,3600852,Brendan Smith,480,Marysville-Pilchuck,District 8,341.0,321.4,378.0,343.0,2012
+202,833881,Tim Danner,487,Snohomish,District 1,342.58,329.29,347.7,323.09,2012
+203,846135,Jose Guzman,479,Mariner,District 1,319.9,296.02,290.54,300.2,2012
+204,143543,Tyler Oshiro,477,Kamiak,District 1,326.1,320.48,331.8,331.5,2010
+205,787128,Justin Frazier,483,Mountlake Terrace,District 1,335.04,301.34,289.99,288.54,2012
+206,830193,Gustaf Lagerkrans,477,Kamiak,District 1,336.5,304.94,288.4,293.6,2012
+207,251894,Jorge Torres,537,Heritage,District 4,272.1,276.0,273.1,273.4,2011
+208,198103,Aaron Hamilton,489,Ballard,District 2,300.6,285.92,279.87,289.5,2010
+209,536014,Alex Bowns,489,Ballard,District 2,280.38,266.45,262.43,257.62,2012
+210,144485,Mark Frerker,499,Skyline,District 2,287.8,283.9,283.61,284.1,2010
+211,137458,Jonathon Carbajal,536,Evergreen (Vancouver),District 4,311.31,301.0,284.0,281.9,2010
+212,547946,Jamon Rogers,499,Skyline,District 2,288.2,273.45,276.72,270.9,2012
+213,323524,Kristopher Plunkett,412,Newport (Bellevue),District 2,315.1,288.66,289.9,296.9,2011
+214,252675,Turner Wiley,408,Issaquah,District 2,303.8,290.2,282.0,263.9,2011
+215,531688,Jay Mason,535,Battle Ground,District 4,293.7,289.1,297.0,288.6,2012
+216,540056,Ryan Peterson,493,Garfield,District 2,293.7,283.8400000000001,268.0,261.22,2012
+217,535896,Kevin Tidball,499,Skyline,District 2,293.9,277.0,277.29,278.5,2012
+218,531643,Ryan Russell,535,Battle Ground,District 4,301.0,295.1,282.8,290.47,2012
+219,316868,Jacob Franklin,493,Garfield,District 2,320.5,302.2,286.4,275.5,2011
+220,219096,Jesse Bengtsson,489,Ballard,District 2,318.1,304.9,302.7,294.1,2010
+221,256058,Garth Ward,19369,Todd Beamer,District 3,281.74,276.28,267.58,274.35,2011
+222,253317,Meron Simon,530,Federal Way,District 3,283.0,278.44,265.08,254.69,2011
+223,534289,Casey Peloquin,506,Gig Harbor,District 3,279.9,260.23,260.66,260.77,2012
+224,249532,Jeff Miles,518,Auburn Riverside,District 3,281.7,280.68,277.72,266.92,2011
+225,245498,Nate Brennand,510,Olympia,District 3,285.3,283.55,255.35,254.09,2011
+226,249531,Nic Lawrence,518,Auburn Riverside,District 3,313.6,287.13,280.9,263.63,2011
+227,151715,Connor Gregg,517,Auburn,District 3,307.6,299.29,287.67,297.17,2010
+228,794104,Joseph Gagliano,506,Gig Harbor,District 3,288.3400000000001,274.84000000000003,277.79,279.1,2012
+229,151727,Elijah Keimig,517,Auburn,District 3,330.9,292.23,290.29,290.64,2010
+230,253310,Nathan Brewster,530,Federal Way,District 3,304.8,290.31,290.89,281.0,2011
+231,239693,Neil Sherwin,522,Kentridge,District 3,301.0,292.97,290.51,290.35,2011
+232,534267,Luke Hoffman,506,Gig Harbor,District 3,294.4,272.69,274.56,286.24,2012
+233,539790,Cody McCranie,517,Auburn,District 3,294.4,267.34,264.99,264.5,2012
+234,145360,Daniel Duffy,525,Tahoma,District 3,313.0,316.11,295.25,302.4,2010
+235,794149,Zachary Parker,506,Gig Harbor,District 3,296.93,281.24,274.19,278.38,2012
+236,149009,Nick Noronha,501,Bellarmine Prep,District 3,309.0,307.0,298.91,305.12,2010
+237,520226,Robert Larribas,513,Shelton,District 3,341.99,312.38,298.89,289.69,2011
+238,794083,Maxwell Beers,506,Gig Harbor,District 3,328.38,339.47,300.79,297.55,2012
+239,532669,Javier Secaira,501,Bellarmine Prep,District 3,330.9,306.92,290.5,302.26,2012
+240,532668,Mario Secaira,501,Bellarmine Prep,District 3,340.94,309.13,288.31,304.2,2012
+241,253318,Alex Tran,530,Federal Way,District 3,303.5,296.46,297.43,296.1,2011
+242,525210,Korey Krotzer,518,Auburn Riverside,District 3,298.77,263.87,254.11,249.61,2012
+243,250690,Andrew Lytle,521,Kentlake,District 3,317.6,300.74,300.3,309.6,2011
+244,239786,Will Richmond,523,Kentwood,District 3,312.7,300.94,291.36,291.3400000000001,2011
+245,533898,Talon Abernathy,522,Kentridge,District 3,302.45,295.72,293.78,264.55,2012
+246,521247,Eric Jacobson,523,Kentwood,District 3,303.46,291.35,288.4,290.94,2012
+247,340551,Ben Williamson,530,Federal Way,District 3,323.7,306.6,294.97,300.17,2011
+248,249530,Keefe Hanson,518,Auburn Riverside,District 3,327.3,313.1,295.14,277.23,2011
+249,536762,Sean Carter,525,Tahoma,District 3,321.99,317.6,299.8,301.79,2012
+250,536783,Tyler Ward,525,Tahoma,District 3,330.51,296.1,291.0,285.99,2012
+251,176360,Junior Choun,528,Decatur,District 3,340.0,321.0,369.0,332.55,2010
+252,239678,Ryan Chapman,543,Eisenhower,District 6,293.62,300.5,294.73,275.93,2009
+253,528669,Jacob Smith,552,Wenatchee,District 6,277.35,266.51,256.2,250.4,2012
+254,250273,Aaron Nelson,549,Walla Walla,District 5,295.7,277.6,270.79,258.52,2011
+255,245685,Cayle Turpen,547,Richland,District 5,287.33,279.25,270.85,261.45,2011
+256,147210,Charles Lisle,544,Kamiakin,District 5,297.15,279.59000000000003,280.47,277.6,2010
+257,236028,Addison Quam,548,Southridge,District 5,391.17,282.18,286.16,293.66,2011
+258,247227,Peter Troianello,543,Eisenhower,District 6,298.26,282.86,285.2,293.3,2011
+259,236027,Aaron Smith,548,Southridge,District 5,308.2,284.75,294.28,301.08,2011
+260,240564,Timothy Cummings,543,Eisenhower,District 6,276.01,285.71,257.63,258.5,2011
+261,263985,Ty Schoenwald,545,Kennewick,District 5,290.24,292.64,291.1,287.47,2011
+262,322447,Tyler Shales,552,Wenatchee,District 6,305.93,293.96,285.38,294.98,2011
+263,250272,Austin Morgan,549,Walla Walla,District 5,294.26,295.06,277.82,275.65,2011
+264,245674,Nathan Mather,547,Richland,District 5,314.51,299.31,286.05,281.65,2011
+265,533000,Greggory Heller,549,Walla Walla,District 5,301.24,306.49,283.5,266.24,2012
+266,532030,Taylor Kraal,544,Kamiakin,District 5,303.3,280.06,270.84,272.76,2012
+267,827582,Sergey Gorbatyuk,546,Pasco,District 5,305.2,295.66,333.5900000000001,283.9,2012
+268,532111,Kyle Paulson,544,Kamiakin,District 5,308.09,293.69,285.74,280.71,2012
+269,132169,Bram Holladay,548,Southridge,District 5,309.7,313.03,302.6,302.03,2011
+270,532108,Kevin Paulson,544,Kamiakin,District 5,313.55,301.53,282.82,276.2,2012
+271,528664,Judd Lewis,552,Wenatchee,District 6,314.52,297.19,302.33,280.78,2012
+272,537356,Quinten Docken,548,Southridge,District 5,315.02,312.5,328.0,298.4,2012
+273,537360,Isaac Lugenbeal,548,Southridge,District 5,319.27,298.4,298.76,280.11,2012
+274,532146,Dylan Guilmette,550,Eastmont,District 6,320.56,295.98,274.5,283.86,2012
+275,522846,Bradley Nicholas Tripp,551,Moses Lake,District 6,322.42,314.71,308.55,297.17,2012
+276,533012,Alec Jones,549,Walla Walla,District 5,325.08,311.08,309.21,302.16,2012
+277,1957905,Kyle Smit,301,Bellevue Christian,District 3,289.61,293.5900000000001,292.23,299.5,2013
+278,1923792,Brad Rich,368,Columbia (White Salmon),District 4,295.58,270.94,264.7,266.94,2013
+279,1957895,Daniel Nortz,301,Bellevue Christian,District 3,296.41,284.36,276.64,267.77,2013
+280,557259,Tyler Reardon,349,Lynden Christian,District 1,297.67,285.06,276.95,283.86,2013
+281,1939930,Sam Landau,298,Coupeville,District 3,313.87,307.17,319.24,333.77,2013
+282,257577,Blake Smith,345,King's,District 1,343.26,324.97,312.67,294.67,2013
+283,499346,Brett Osterlund,321,Kalama,District 4,315.0,310.0,318.44,295.95,2013
+284,1923793,Corey Rich,368,Columbia (White Salmon),District 4,322.84,294.0,291.5,306.6,2013
+285,1921659,Logan TenFingers,371,Stevenson,District 4,333.6,315.02,308.4,303.03,2013
+286,1955313,Ryan Johanson,364,Forks,District 4,346.0,326.0,330.17,345.0,2013
+287,1898930,Will Bowdish,322,Goldendale,District 5,344.79,328.15,317.0,307.41,2013
+288,1452716,Patrick Gibson,403,Squalicum,District 1,269.26,260.62,251.29,251.85,2013
+289,1415910,Tom Bradley,348,Blaine,District 1,269.5,266.02,268.1,261.74,2013
+290,1451554,Sean Eustis,449,Washougal,District 4,274.73,274.9,265.73,260.76,2013
+291,1989160,Dallas Snider,458,W F West,District 4,275.08,261.9,254.8,258.45,2013
+292,1456145,Blake Bussing,447,Mark Morris,District 4,286.4,279.1,278.0,279.98,2013
+293,1426740,Cody Wanichek,394,Cedarcrest,District 1,299.2,287.5,283.04,294.66,2013
+294,1444852,Joe Charbonneau,397,Bellingham,District 1,305.4,276.46,260.96,257.38,2013
+295,1454992,Sam Backman,396,Anacortes,District 1,312.17,301.7,298.51,284.32,2013
+296,1452720,Josh Yeend,403,Squalicum,District 1,313.71,301.56,295.0,304.7,2013
+297,1469190,Peter Espinoza,346,Lakewood,District 1,317.22,298.42,298.72,287.72,2013
+298,1444854,Hayden LeBlonde,397,Bellingham,District 1,325.0,312.6,291.2,283.52,2013
+299,1429165,Jesse Littlelight,344,Granite Falls,District 1,331.0,329.95,328.64,320.71,2013
+300,1445302,Aidan Mathis,396,Anacortes,District 1,360.9,329.76,309.8,290.26,2013
+301,1849322,Alex Christoforou,402,Sehome,District 1,481.91,415.1,430.3,421.13,2013
+302,1418378,Jonathan Day,427,North Mason,District 3,309.1,309.76,289.91,306.14,2013
+303,1447140,Nicholas Thibault,20538,Kingston,District 3,320.9,313.86,309.55,298.49,2013
+304,1407269,Jordan Walker,359,Steilacoom,District 3,321.0,298.88,297.25,291.85,2013
+305,1893849,Oscar Trinidad,354,Eatonville,District 4,327.7,335.3,303.79,319.83,2013
+306,1580893,Austin Hayes,354,Eatonville,District 4,333.75,330.6,318.29,309.36,2013
+307,1893848,Nick Phipps,354,Eatonville,District 4,334.49,335.1,319.81,309.8,2013
+308,1407266,Dawson Murphy,359,Steilacoom,District 3,342.0,352.43,353.14,362.47,2013
+309,1977945,Corben Peltier,448,R A Long,District 4,299.5,299.0,308.4,298.4,2013
+310,1441736,Thomas Morrissey,457,Tumwater,District 4,308.05,293.08,280.08,281.51,2013
+311,1923648,Eddie Lilii,453,Centralia,District 4,312.0,319.0,319.04,319.8,2013
+312,1438576,Joseph Bowley,452,Aberdeen,District 4,321.0,299.3,290.13,291.7,2013
+313,1453729,Brandon Huntley,451,Black Hills,District 4,323.6,321.6,312.6,295.36,2013
+314,2134709,Logan Yost,457,Tumwater,District 4,342.85,316.0,298.5,318.8,2013
+315,1919356,Ryan Harris,370,Ridgefield,District 4,369.1,356.0,339.55,336.7,2013
+316,1977993,Alex Reymont,448,R A Long,District 4,387.0,375.0,378.3,374.9,2013
+317,1538956,Bradley Buttars,462,Prosser,District 5,308.0,287.65,279.4,271.97,2013
+318,1450907,Ethan Smith,463,Selah,District 5,309.0,298.27,287.0,288.02,2013
+319,1440385,Jose Cabrera,379,Othello,District 5,331.55,307.62,297.19,294.44,2013
+320,1430793,Carter Osborne,405,Shorecrest,District 1,269.23,258.27,257.64,255.48,2013
+321,1434952,Andrew Kaler,450,Camas,District 4,277.67,271.1,267.35,260.89,2013
+322,1434950,Tucker Boyd,450,Camas,District 4,280.0,274.18,268.19,266.6,2013
+323,1416740,Chris Scharer,19386,Auburn Mountainview,District 3,280.09000000000003,264.94,268.95,273.8,2013
+324,1461937,Brandon Peden,401,Sedro-Woolley,District 1,306.85,298.1,299.6,304.96,2013
+325,1429991,Alex Ashenbrener,404,Lynnwood,District 1,316.22,299.17,289.43,296.69,2013
+326,263357,Stefan Ball,481,Meadowdale,District 1,316.62,302.65,302.77,297.58,2013
+327,1471888,David Brzovic,405,Shorecrest,District 1,344.28,321.41,313.48,294.04,2013
+328,1430786,Cory Henderson,405,Shorecrest,District 1,347.73,337.2,319.02,342.93,2013
+329,1911107,Tyler Cox,414,Bainbridge,District 2,290.54,279.7,274.89,272.48,2013
+330,1424901,Oliver Manley,415,Bishop Blanchet,District 2,291.8,278.23,277.7,274.69,2013
+331,1501335,Payton Quinn,425,Seattle Prep,District 2,299.57,330.22,326.24,317.9,2013
+332,1501328,Gabe Coluccio,425,Seattle Prep,District 2,306.64,304.07,294.0,295.68,2013
+333,1424903,Sean Marty,415,Bishop Blanchet,District 2,314.9,300.7,316.4,326.0,2013
+334,527282,Daniel Thiel,425,Seattle Prep,District 2,365.9,333.35,337.9,336.5,2012
+335,1424908,Tom Simpson,415,Bishop Blanchet,District 2,333.6,357.9,301.1,302.5,2013
+336,1998895,Alex Otto,415,Bishop Blanchet,District 2,336.3,327.9,297.5,292.9,2013
+337,1501336,Jack Reinhardt,425,Seattle Prep,District 2,336.82,308.72,302.0,332.57,2013
+338,246629,Anthony Kern,450,Camas,District 4,309.0,303.3,285.0,290.2,2011
+339,520111,Anthony Lee,444,Columbia River,District 4,307.0,286.0,284.5,278.0,2012
+340,1479878,Ian Christen,509,North Kitsap,District 3,296.1,282.89,277.22,272.85,2013
+341,539925,John Doyle,450,Camas,District 4,327.0,296.2,280.4,270.24,2012
+342,1441902,Ryan McGraw,19375,Bonney Lake,District 3,297.32,287.79,287.39,276.39,2013
+343,1577638,Travis Pate,437,Clover Park,District 3,297.4,294.47,282.55,274.03,2013
+344,1416739,Aarun Rumbaugh,19386,Auburn Mountainview,District 3,298.4,290.19,281.86,272.44,2013
+345,1486723,Mohamud Abdi,433,Lindbergh,District 3,298.7,272.62,260.94,258.79,2013
+346,1446925,Brian Reilly,435,Renton,District 3,306.72,299.97,292.35,286.4,2013
+347,1407300,Jakub Morton,441,Peninsula,District 3,300.3,288.25,282.9,282.2,2013
+348,1429889,Alec Rhome,519,Enumclaw,District 3,300.4,299.0,278.74,279.7,2013
+349,1454929,Chris Fisher,443,White River,District 3,303.4,299.5,273.11,264.7,2013
+350,1418005,Nehemiah Barrett,439,Franklin Pierce,District 3,310.44,284.04,265.16,256.73,2013
+351,1429854,Eric Flowers,519,Enumclaw,District 3,318.1,332.0,328.8,316.0,2013
+352,1496354,Tyler Borland,437,Clover Park,District 3,340.5,358.0,330.32,311.13,2013
+353,1912711,Authur Scholes,443,White River,District 3,379.0,367.9,354.4,328.88,2013
+354,1428634,Shea Temple,503,Capital,District 3,313.67,292.71,279.58,279.1,2013
+355,1432837,Aren Reaves,456,Timberline,District 3,333.4,319.9,314.26,312.18,2013
+356,1957883,Erik VanAusdal,456,Timberline,District 3,349.8,347.83,356.55,330.0,2013
+357,1434951,Andrew Duffy,450,Camas,District 4,302.2,281.5,273.49,277.3,2013
+358,1914564,Noah Wachlin,450,Camas,District 4,311.5,301.3,295.0,300.7,2013
+359,814822,Austin Klein,20354,Union,District 4,356.0,351.1,334.6,334.0,2012
+360,1972585,Brendan Simons,20354,Union,District 4,402.0,388.5,383.4,363.0,2013
+361,1414866,Jeevan Philip,461,Hanford,District 5,297.02,290.44,274.73,264.79,2013
+362,1849030,David Zhai,461,Hanford,District 5,300.2,288.36,281.34000000000003,275.06,2013
+363,1433856,Manuel Dimas,464,Sunnyside,District 6,314.0,315.35,297.64,312.86,2013
+364,7234086,Colby Gilbert,541,Skyview,District 4,269.68,269.23,263.12,252.05,2013
+365,1435794,Mason Nicol,478,Lake Stevens,District 1,274.76,275.5,260.79,301.1,2014
+366,1435799,Scott Schmitt,478,Lake Stevens,District 1,285.31,270.09,266.62,264.61,2013
+367,1450205,Tomislav Smith,477,Kamiak,District 1,287.13,284.31,275.77,262.17,2013
+368,1966498,Caleb Mina,478,Lake Stevens,District 1,289.9,285.7,276.17,273.12,2013
+369,1483670,Tanner Nieman,488,Stanwood,District 1,292.72,287.5,282.0,271.12,2013
+370,1434038,Michael Sutherland,486,Shorewood,District 1,297.9,295.83,278.47,277.66,2013
+371,1230835,Jack Griffing,474,Edmonds-Woodway,District 1,298.38,284.32,275.77,271.19,2013
+372,1450180,Jackson Carter,477,Kamiak,District 1,299.8,295.0,284.5,288.86,2013
+373,1483552,Cody Hoskins,488,Stanwood,District 1,305.1,279.9,274.4,286.25,2013
+374,1468071,Ryan Fairhurst,487,Snohomish,District 1,314.06,287.72,277.19,276.8,2013
+375,1468080,Sam Lince,487,Snohomish,District 1,316.81,283.74,276.67,278.72,2013
+376,1429942,Andrew Suh,486,Shorewood,District 1,331.2,307.95,322.77,339.0,2013
+377,1447348,Patrick Kelly,474,Edmonds-Woodway,District 1,347.14,317.92,292.96,285.68,2013
+378,1433112,Keegan Symmes,499,Skyline,District 2,276.9,263.93,263.8,257.13,2013
+379,1462372,Grant Stein,412,Newport (Bellevue),District 2,287.6,283.0,272.49,267.1,2013
+380,1432866,Jamie Coughlin,493,Garfield,District 2,289.5,267.4,258.25,259.32,2013
+381,1433115,Grant Uselman,499,Skyline,District 2,289.8,277.6,276.79,275.3,2013
+382,142609,Spencer Hildie,408,Issaquah,District 2,321.0,310.8,315.0,294.6,2010
+383,787728,Daniel Park,408,Issaquah,District 2,317.4,294.8,297.5,316.0,2012
+384,1424504,Logan Taylor,446,Kelso,District 4,312.0,321.9,306.0,304.0,2013
+385,1949110,Josh Helmes,535,Battle Ground,District 4,318.0,282.29,280.56,268.0,2013
+386,1424506,Tyler Traver,446,Kelso,District 4,323.0,320.0,287.0,280.42,2013
+387,1433493,Bryan Quandt,489,Ballard,District 2,302.9,278.41,277.02,272.19,2013
+388,1429229,Sterling Bath,522,Kentridge,District 3,281.61,266.2,266.49,266.76,2013
+389,1462151,James Dagley,525,Tahoma,District 3,282.69,276.54,273.6,267.81,2013
+390,1454347,Tyler Flannery,517,Auburn,District 3,292.28,286.2,267.28,263.93,2013
+391,1407672,Tom Bolt,501,Bellarmine Prep,District 3,292.3400000000001,284.64,280.37,281.19,2013
+392,1438539,Samuel Bailey,504,Central Kitsap,District 3,291.26,292.56,304.51,296.53,2012
+393,1437209,Noah Benesch,506,Gig Harbor,District 3,295.15,307.73,294.0,282.0900000000001,2013
+394,532512,Nathan Morgan,513,Shelton,District 3,319.03,297.6,291.86,264.52,2012
+395,1438560,David Young,504,Central Kitsap,District 3,336.8,298.96,330.3,315.77,2012
+396,1445830,Cameron Freshwaters,515,Stadium,District 3,299.42,281.27,277.13,276.77,2013
+397,1441569,Nate Van Haitsma,510,Olympia,District 3,308.4,300.45,275.22,266.39,2013
+398,1437224,Bill Herling,506,Gig Harbor,District 3,323.59,322.03,323.4,313.6,2013
+399,539785,Cole Frampton,517,Auburn,District 3,339.1,297.69,299.56,300.84,2012
+400,1462163,Dakota Nichols,525,Tahoma,District 3,309.06,303.67,311.0,328.23,2013
+401,1454356,Brennan Wallin,517,Auburn,District 3,314.26,291.8400000000001,275.42,278.8,2013
+402,1406059,Galen Kornowske,523,Kentwood,District 3,314.74,290.58,290.31,288.49,2013
+403,1883388,Brenton Ausen,523,Kentwood,District 3,322.88,304.72,297.65,287.11,2013
+404,1406062,Eli McMeen,523,Kentwood,District 3,327.9,293.5,285.69,275.05,2013
+405,239687,Conner Haffner,522,Kentridge,District 3,359.0,347.6,331.0,319.72,2011
+406,1436866,Delfino Dominguez,543,Eisenhower,District 6,285.28,279.09000000000003,287.81,278.07,2013
+407,1434142,Sean Newcomb,549,Walla Walla,District 5,297.38,297.0,279.59000000000003,262.66,2013
+408,1437265,Carter Svendsen,543,Eisenhower,District 6,299.0,281.62,279.45,277.68,2013
+409,1477117,Brody Sams,548,Southridge,District 5,307.4,302.48,299.85,280.23,2013
+410,1439246,Jesse Salazar,543,Eisenhower,District 6,309.27,293.19,290.29,307.22,2013
+411,1461523,Josh Olson,550,Eastmont,District 6,314.32,308.1,296.86,297.21,2013
+412,2528725,Kyle Degraaff,369,La Center,District 4,278.62,270.4,267.09,262.8,2014
+413,2548876,Drew Van Polen,382,Cashmere,District 6,292.86,288.44,288.76,270.7,2014
+414,2577956,Zach Collins,332,Zillah,District 5,295.0,282.93,282.43,277.43,2014
+415,2601483,Ira Fleming,308,University Prep,District 2,301.3,294.17,291.35,288.57,2014
+416,2896070,Andrew Brodsky,345,King's,District 1,351.55,326.1,326.17,304.25,2014
+417,557261,Ryan Pitcher,349,Lynden Christian,District 1,356.3400000000001,335.05,330.92,334.7,2014
+418,3930159,Travis Dennis,321,Kalama,District 4,307.3,295.4,289.3,288.3,2014
+419,2548495,Nathan DeVaney,368,Columbia (White Salmon),District 4,328.8,303.0,292.7,296.0,2014
+420,2577973,Kody Johnson,332,Zillah,District 5,310.71,312.98,310.6,308.7,2014
+421,3016306,Omar Cardoza,328,Granger,District 5,323.0,307.2,297.5,298.28,2014
+422,2577971,Kasey Johnson,332,Zillah,District 5,324.6,321.0,310.3,307.5,2014
+423,2539311,Logan Orndorf,394,Cedarcrest,District 1,279.82,268.3,261.41,257.46,2014
+424,2577864,James Jasperson,454,North Thurston,District 3,282.9,268.96,267.57,261.19,2014
+425,2539307,Colton Green,394,Cedarcrest,District 1,294.9,279.4,271.58,259.38,2014
+426,2564198,Mitchell Darrah,346,Lakewood,District 1,299.99,280.18,273.26,269.32,2014
+427,2539313,Quinn Radbourne,394,Cedarcrest,District 1,306.32,269.1,263.12,260.64,2014
+428,2572020,Jacob Stahl,397,Bellingham,District 1,310.2,296.6,282.55,274.49,2014
+429,2523678,Carter Johnson,402,Sehome,District 1,311.0,298.1,297.31,300.0,2014
+430,2564232,Jared Radtke,403,Squalicum,District 1,313.1,289.96,293.61,288.3,2014
+431,2539308,Jonathan Gunderson,394,Cedarcrest,District 1,332.2,305.22,302.87,295.08,2014
+432,2531095,Aaron Heidlage,347,Sultan,District 1,333.9,327.12,300.31,306.88,2014
+433,2523684,Nathan LeTavec,402,Sehome,District 1,326.5,293.6,278.18,273.6,2014
+434,2523690,Bobby Stewart,402,Sehome,District 1,334.99,313.0,298.2,317.2,2014
+435,2563434,Hezekiah Allen,359,Steilacoom,District 3,317.0,269.42,267.67,262.2,2014
+436,2981766,Malcolm Freeman,437,Clover Park,District 3,317.7,319.89,306.88,321.0,2014
+437,2572386,Jameson Bruce,20538,Kingston,District 3,359.23,347.55,315.26,327.68,2014
+438,2535978,Cory Richardson,453,Centralia,District 4,294.0,286.73,283.54,278.35,2014
+439,2966102,Sheldon Corcoran,457,Tumwater,District 4,317.5,328.11,316.8,324.09,2014
+440,2578107,Ethan Johnson,448,R A Long,District 4,325.9,303.4,292.3,293.55,2014
+441,2557434,Carter Gilmour,457,Tumwater,District 4,326.5,307.1,300.6,300.53,2014
+442,2573656,Dale Broek,451,Black Hills,District 4,328.9,299.98,287.05,286.05,2014
+443,2584629,Ben Bottcher,460,Ellensburg,District 5,310.35,286.29,275.2,281.92,2014
+444,2555945,Gabe Merrill-Steskal,460,Ellensburg,District 5,315.36,304.18,289.9,291.75,2014
+445,3009926,Jose Velazquez,376,Grandview,District 5,341.1,293.8,306.09,309.44,2014
+446,2577908,Joe Hardy,425,Seattle Prep,District 2,263.93,249.29,261.9,247.73,2014
+447,2555306,Keegan McCormick,544,Kamiakin,District 5,273.88,267.49,263.95,264.82,2014
+448,2429132,Keenan Stephens,486,Shorewood,District 1,292.08,276.88,275.76,272.7,2014
+449,2545404,Jack Pearce,483,Mountlake Terrace,District 1,297.68,284.58,270.6,267.01,2014
+450,2429131,John Ehni,486,Shorewood,District 1,307.4,292.35,289.1,298.61,2014
+451,2502713,Nathan Sparks,483,Mountlake Terrace,District 1,309.21,293.47,276.35,276.08,2014
+452,2516032,Chris Baumgartner,483,Mountlake Terrace,District 1,325.89,307.46,298.9,294.0,2014
+453,2516029,Peter Kidane,483,Mountlake Terrace,District 1,333.37,307.52,293.0,287.28,2014
+454,2575860,Erik Skamser,405,Shorecrest,District 1,376.31,362.29,350.31,352.61,2014
+455,2528978,Andrew Foerder,422,Nathan Hale,District 2,285.6,264.51,258.15,253.35,2014
+456,2527114,Max Leach,422,Nathan Hale,District 2,290.6,264.31,254.92,249.6,2014
+457,2549786,Aedan Roberts,422,Nathan Hale,District 2,290.9,282.9,261.86,267.58,2014
+458,2577903,Keegan Boehm,425,Seattle Prep,District 2,293.3,269.43,276.23,280.99,2014
+459,2577915,Keenan Leary,425,Seattle Prep,District 2,298.18,277.34000000000003,270.77,267.89,2014
+460,3062957,Jacob Slagle,496,Lake Washington,District 2,376.0,353.4,320.4,311.87,2013
+461,2605353,Cole Reeves,413,Sammamish,District 2,366.9,354.0,363.6,354.95,2014
+462,2527172,John Ghiglione,422,Nathan Hale,District 2,322.9,309.0,309.5,317.39,2014
+463,2531080,Joe Christianson,415,Bishop Blanchet,District 2,323.1,305.41,288.3,288.4,2014
+464,2979762,Will Miner,415,Bishop Blanchet,District 2,325.3,312.1,293.6,289.42,2014
+465,2510551,Stephen Nelson,440,Lakes,District 3,289.5900000000001,282.79,275.35,274.06,2014
+466,2568621,Ben Monk,503,Capital,District 3,290.5,272.38,271.0,263.22,2014
+467,2558760,Jarek Rasmussen,440,Lakes,District 3,308.6,295.18,278.88,266.61,2014
+468,2551580,Kai Collingwood,519,Enumclaw,District 3,317.3,318.4,291.9,302.0,2014
+469,2560086,Paul Alvestad,441,Peninsula,District 3,328.2,301.03,312.31,313.5,2014
+470,2584437,Peter Marriott,507,Lincoln,District 3,332.11,300.0,320.3,298.93,2014
+471,2555309,Garrett Kraal,544,Kamiakin,District 5,284.85,281.96,261.52,263.76,2014
+472,2555354,Daniel Sanchez,544,Kamiakin,District 5,293.08,282.0900000000001,282.73,274.06,2014
+473,2578330,Bret Lindell,550,Eastmont,District 6,294.39,281.11,279.35,269.87,2014
+474,1942529,Alex Mattinson,544,Kamiakin,District 5,330.5,299.88,307.73,307.88,2013
+475,1451342,Prescott Davis,545,Kennewick,District 5,332.9,301.81,295.68,309.82,2013
+476,1930462,Ivan De La Cruz,550,Eastmont,District 6,317.02,302.4,311.5,314.88,2013
+477,2533555,Justin Irvine,466,West Valley (Yakima),District 6,303.66,274.56,268.58,264.0,2014
+478,2550358,Steven Lutz,461,Hanford,District 5,330.0,300.01,286.21,282.87,2014
+479,2578326,Victor Briseno,550,Eastmont,District 6,352.99,355.8,347.78,345.71,2014
+480,2550363,Michael O'Toole,461,Hanford,District 5,388.32,366.56,348.58,358.15,2014
+481,2557210,Wolfgang Beck,506,Gig Harbor,District 3,262.46,253.08,255.94,253.49,2014
+482,1469643,Johnathan Stevens,497,Redmond,District 2,313.0,263.75,254.9,255.64,2013
+483,2980676,Mitch Stewart,530,Federal Way,District 3,274.38,263.25,258.51,252.92,2014
+484,2527344,Riley Campbell,525,Tahoma,District 3,274.7,268.69,262.65,259.38,2014
+485,2561218,Cody Williamson,513,Shelton,District 3,277.25,267.81,270.98,265.82,2014
+486,2527022,Kyler Sager,487,Snohomish,District 1,292.91,274.66,273.02,270.06,2014
+487,2577118,Jerry Behrens,477,Kamiak,District 1,293.63,284.5,274.44,286.0900000000001,2014
+488,2577126,Ben Halladay,477,Kamiak,District 1,294.95,281.86,272.19,269.46,2014
+489,2531064,Brenden Perry,487,Snohomish,District 1,298.81,282.9,273.64,271.56,2014
+490,2594105,David Castillo,478,Lake Stevens,District 1,305.58,296.9,295.4,294.99,2014
+491,2577133,Ryan Pak,477,Kamiak,District 1,311.52,298.3,330.96,332.5,2014
+492,2527044,Chandler Crayton,482,Monroe,District 1,311.52,300.29,297.25,305.0,2014
+493,2999486,Vinny Shipley,473,Cascade (Everett),District 1,314.24,294.5,286.8,286.7,2014
+494,2973625,Nicholas Taylor,472,Arlington,District 1,315.7,294.8,284.7,282.0,2014
+495,3022985,Blake Hansen,19369,Todd Beamer,District 3,285.5,276.4,274.15,280.58,2014
+496,2980674,Mussie Simon,530,Federal Way,District 3,288.4,278.26,274.54,269.86,2014
+497,2527295,Quentin Purtzer,501,Bellarmine Prep,District 3,289.9,271.11,270.35,267.85,2014
+498,2570231,Kris Angus,523,Kentwood,District 3,292.6,280.86,294.88,292.54,2014
+499,2557230,Charles Shields,506,Gig Harbor,District 3,299.48,280.27,293.66,287.04,2014
+500,2557229,Mathew Rogers,506,Gig Harbor,District 3,306.81,290.32,299.07,291.99,2014
+501,2557220,Noah Johnson,506,Gig Harbor,District 3,309.71,306.62,310.67,285.82,2014
+502,2888823,Chris Mooney,501,Bellarmine Prep,District 3,318.35,293.73,276.11,281.1,2014
+503,2532744,Luke Russell,522,Kentridge,District 3,300.37,299.68,293.01,301.98,2014
+504,2570227,Brian Lunder,523,Kentwood,District 3,320.1,359.95,332.76,334.0,2014
+505,2529812,Nick Lawson,525,Tahoma,District 3,320.55,296.43,296.2,293.46,2014
+506,1406067,Scott Miller,523,Kentwood,District 3,346.2,328.0,307.76,297.8400000000001,2013
+507,2561106,Isaac Derline,522,Kentridge,District 3,334.1,298.35,286.23,268.87,2014
+508,1418287,Jake Hagen,521,Kentlake,District 3,343.0,343.0,317.7,314.08,2013
+509,2533444,Michael Williams,547,Richland,District 5,278.03,279.62,260.77,255.67,2014
+510,2579642,Tristan Cunderla,552,Wenatchee,District 6,284.99,280.72,286.94,294.35,2014
+511,2539033,Gage Benner,543,Eisenhower,District 6,288.17,272.4,268.0,278.0,2014
+512,1910703,Gavin Leaverton,543,Eisenhower,District 6,344.32,293.57,279.13,277.67,2013
+513,2976265,Simon Verduzco,543,Eisenhower,District 6,305.11,281.97,277.8,268.17,2015
+514,529186,Josh Weivoda,551,Moses Lake,District 6,359.0,326.74,318.8,315.74,2012
+515,2580994,Jacob Leinweber,549,Walla Walla,District 5,332.0,316.46,313.42,293.44,2014
+516,2580945,Dan Butler,549,Walla Walla,District 5,343.0,314.02,311.0,301.74,2014
+517,522849,Connor Wytko,551,Moses Lake,District 6,353.7,344.57,362.0,363.61,2012
+518,2533442,Logan Wickham,547,Richland,District 5,362.2,340.02,313.53,313.37,2014
+519,2533427,Mark McDonald,547,Richland,District 5,367.0,342.32,351.53,338.68,2014
+520,2640919,Andrew Ayers,345,King's,District 1,276.95,264.31,267.41,260.63,2015
+521,3643448,Graham Peet,306,Northwest,District 2,277.16,272.41,263.86,261.47,2015
+522,8985098,Jordan Markezich,301,Bellevue Christian,District 3,277.19,277.58,275.19,258.62,2015
+523,3658205,Rodrigo Ventura,329,Highland,District 5,284.47,283.5900000000001,278.07,271.79,2015
+524,3643250,Cole Zink,395,South Whidbey,District 1,290.69,283.27,287.9,289.16,2015
+525,3930159,Travis Dennis,369,La Center,District 4,307.3,295.4,289.3,288.3,2014
+526,2640920,Arthur Emmons,345,King's,District 1,299.37,297.12,286.58,280.4,2015
+527,2182546,Nathan Patterson,373,Woodland,District 4,301.5,286.7,296.9,279.3,2015
+528,3652351,Ivan Reyes,383,Chelan,District 6,302.76,299.96,288.91,304.9,2015
+529,3576778,Ryan Clarke,358,Port Townsend,District 3,307.41,287.8400000000001,272.62,263.53,2015
+530,3643252,Truman Hood,395,South Whidbey,District 1,318.98,323.2,302.66,297.29,2015
+531,3991500,Patrick O'brian,299,Friday Harbor,District 1,373.2,351.86,367.02,345.3,2015
+532,3007132,Eamon O'Leary,309,Seattle Academy,District 2,314.16,314.53,301.76,310.6,2014
+533,3623433,Adam Koehler,301,Bellevue Christian,District 3,315.27,325.89,316.1,318.4,2015
+534,3623439,David Reynolds,301,Bellevue Christian,District 3,356.21,331.42,318.2,313.6,2015
+535,3636195,Jorren Mills,312,Seattle Christian,District 3,324.59,300.85,308.3,302.92,2015
+536,3636199,Brandon Seeger,312,Seattle Christian,District 3,324.9,299.85,307.19,297.79,2015
+537,3575157,Aaron Kitchener,360,Vashon Island,District 3,370.25,337.79,329.8,347.95,2015
+538,9126784,Matthew Young,373,Woodland,District 4,317.7,295.3,273.9,276.3,2015
+539,3573724,Aaron Kitchen,373,Woodland,District 4,397.7,376.74,374.27,377.3,2015
+540,4007283,Sawyer Goodsel,323,Columbia (Burbank),District 5,316.18,301.9,309.11,287.51,2015
+541,3651337,Aaron Brumbaugh,447,Mark Morris,District 4,271.6,264.5,258.51,263.22,2015
+542,237299,Kirby Overman,402,Sehome,District 1,280.7,292.0,267.85,265.48,2015
+543,3635752,Matthew Schrenk,463,Selah,District 5,284.67,280.99,279.5,265.97,2015
+544,3657523,Douglas Davis,346,Lakewood,District 1,287.63,269.22,258.11,264.41,2015
+545,3614387,Tyler Caseria,402,Sehome,District 1,298.6,287.92,277.3,276.91,2015
+546,3657522,Alex Cooper,346,Lakewood,District 1,299.17,293.81,270.64,271.31,2015
+547,3648237,Wyatt Mullen,398,Burlington-Edison,District 1,311.02,274.43,265.79,264.16,2015
+548,3614423,Brent Schroeter,402,Sehome,District 1,313.11,306.8,305.77,306.2,2015
+549,3647790,Trevor Derie,396,Anacortes,District 1,323.0,299.33,291.7,270.14,2015
+550,3614422,Alex Schneider,402,Sehome,District 1,323.2,296.1,289.3,285.12,2015
+551,3657532,Brandon Shepard,346,Lakewood,District 1,336.37,336.89,298.3,298.63,2015
+552,3636269,Peyton Lantis,394,Cedarcrest,District 1,361.04,333.3,332.08,344.15,2015
+553,3607637,Dutton Crowley,509,North Kitsap,District 3,296.94,293.33,286.98,289.31,2015
+554,2559979,Travis Beets,438,Fife,District 3,301.04,300.3,302.15,293.0,2014
+555,3603549,Mikey Cobb,428,Sequim,District 3,305.17,277.01,274.78,294.73,2015
+556,2561243,David Huff,433,Lindbergh,District 3,329.44,307.7,305.52,298.49,2014
+557,3622784,Stephan Hull,439,Franklin Pierce,District 3,309.0,286.6,267.4,263.83,2015
+558,3548602,Isaac Barrett,439,Franklin Pierce,District 3,314.0,299.39,280.69,280.0,2015
+559,4019525,Nicholas Ganowski,356,Klahowya,District 3,344.45,316.32,318.88,314.78,2015
+560,4022506,Sumiran Poudel,435,Renton,District 3,318.0,295.21,293.35,309.66,2015
+561,3614258,Ryan Carlstrom,429,Evergreen (Seattle),District 3,321.9,311.9,294.68,286.3400000000001,2015
+562,3668562,Viet Pham,433,Lindbergh,District 3,340.55,333.22,324.59,318.69,2015
+563,3014379,Jomell Cortez,429,Evergreen (Seattle),District 3,397.1,349.27,329.84,323.47,2014
+564,3637279,Tyler Reece,454,North Thurston,District 3,297.79,275.98,279.6,293.69,2015
+565,3423294,Tony Swenson,458,W F West,District 4,306.56,296.93,292.23,293.55,2015
+566,4026686,Karsten Rentner,448,R A Long,District 4,311.34,290.83,279.23,293.24,2015
+567,3967653,Taryn Girard,451,Black Hills,District 4,343.52,331.8,319.21,334.7,2015
+568,3613744,Peyton Sperl,462,Prosser,District 5,287.76,291.5,282.15,280.4,2015
+569,3654398,Konner Sauve,375,East Valley (Yakima),District 5,293.72,293.8,296.93,294.9,2015
+570,3642066,Eric Wilson,460,Ellensburg,District 5,317.33,312.78,291.41,309.37,2015
+571,3613690,Kevin Cassidy,462,Prosser,District 5,407.22,346.4,361.49,382.9,2015
+572,3492103,Patrick McDermott,420,Ingraham,District 2,258.41,256.58,254.23,255.66,2015
+573,8150070,Devon Grove,496,Lake Washington,District 2,291.74,266.35,261.16,257.8,2014
+574,3958209,Stuart Smith,422,Nathan Hale,District 2,276.66,263.15,253.23,252.76,2015
+575,3579357,Cameron Glade,544,Kamiakin,District 5,279.83,272.59000000000003,262.52,265.67,2015
+576,3570900,Dominic Giordano,481,Meadowdale,District 1,281.72,274.12,276.23,274.82,2015
+577,3639831,John Rodeheffer,485,Oak Harbor,District 1,283.47,267.0,263.41,255.4,2015
+578,3640002,James Horne,22531,Glacier Peak,District 1,286.37,292.0,277.34000000000003,286.53,2015
+579,3608180,Tyler McArthur,404,Lynnwood,District 1,286.69,269.04,271.93,271.83,2015
+580,3586949,Kelly McCaffrey,405,Shorecrest,District 1,294.11,281.3,295.35,291.93,2015
+581,3586950,Naphtali Moulton,405,Shorecrest,District 1,297.35,300.75,290.1,281.22,2015
+582,3627243,Andrew Christianson,486,Shorewood,District 1,307.27,282.4,273.35,271.16,2015
+583,3963070,Sebastian Ceaser,485,Oak Harbor,District 1,308.11,302.0,292.23,276.55,2015
+584,3555841,Kyle Rhodes,483,Mountlake Terrace,District 1,311.4,312.7,288.2,303.9,2015
+585,3571090,Conrad Bratz,483,Mountlake Terrace,District 1,318.23,299.5,282.31,283.44,2015
+586,3570897,Josh Verzola,481,Meadowdale,District 1,318.23,307.0,300.9,294.74,2015
+587,3614294,Shane Peterson,486,Shorewood,District 1,318.82,300.2,292.96,287.62,2015
+588,4030993,Max Ingalls,22531,Glacier Peak,District 1,320.2,311.0,296.8400000000001,295.46,2015
+589,3600854,Garrett Westover,39269,Marysville Getchell,District 1,322.33,301.38,284.33,276.47,2015
+590,3642446,Jeremy Popkins,475,Everett,District 1,322.7,362.4,350.85,333.9,2015
+591,3584267,Mahad Hufane,404,Lynnwood,District 1,330.21,308.53,318.6,304.7,2015
+592,3985257,Jared Hanson,486,Shorewood,District 1,335.16,345.46,313.76,307.05,2015
+593,3600852,Brendan Smith,39269,Marysville Getchell,District 1,341.0,321.4,378.0,343.0,2012
+594,3993249,Nick Kosinski,415,Bishop Blanchet,District 2,289.55,273.0,274.37,281.0,2015
+595,3553708,Andy Reischling,425,Seattle Prep,District 2,300.48,287.13,259.87,262.3,2015
+596,3643471,Conor Lanning,413,Sammamish,District 2,300.72,293.5,301.42,276.66,2015
+597,3570405,John Rosenberger,415,Bishop Blanchet,District 2,300.8,288.2,283.7,281.4,2015
+598,4012392,Matt Skelton,496,Lake Washington,District 2,308.0,306.5,299.6,298.6,2014
+599,3612905,Jason Garcia,423,O'Dea,District 2,310.6,303.6,295.08,283.64,2015
+600,3576623,Thomas Psyhogeos,425,Seattle Prep,District 2,310.66,290.64,281.43,269.98,2015
+601,538832,Matthew Groden,415,Bishop Blanchet,District 2,368.5,351.4,344.8,322.7,2012
+602,3570406,Cole Sena,415,Bishop Blanchet,District 2,325.9,293.3,297.8,307.08,2015
+603,3492096,Miles Baker,420,Ingraham,District 2,327.17,314.47,328.5,313.3,2015
+604,3607760,Matthew Siebert,440,Lakes,District 3,300.15,300.21,297.4,281.91,2015
+605,3607713,Joe Edgecomb,440,Lakes,District 3,303.08,300.6,275.49,272.36,2015
+606,2533841,Bryson Gilmore,456,Timberline,District 3,339.1,320.5,316.72,339.99,2014
+607,3695190,Ian Thulin-Gizzi,503,Capital,District 3,335.16,314.8,283.8400000000001,291.42,2015
+608,3979033,Griffin Allen,441,Peninsula,District 3,339.0,336.2,313.9,317.98,2015
+609,3628031,John Busch,502,Bremerton,District 3,357.05,331.74,321.87,307.34,2015
+610,2563963,Nick Mounier,446,Kelso,District 4,320.8,282.07,272.28,261.49,2014
+611,8700298,Austin Blankenship,444,Columbia River,District 4,285.0,281.0,271.87,268.44,2015
+612,2520753,Ron Leaf,446,Kelso,District 4,303.36,286.91,282.68,271.0,2014
+613,3651548,Taryk Boyd,450,Camas,District 4,290.3,281.5,276.3,272.8,2015
+614,2967079,Doug Paresa,540,Prairie,District 4,315.5,296.5,288.39,292.2,2014
+615,2538871,Miles Park,444,Columbia River,District 4,298.9,296.7,281.6,278.64,2014
+616,12822795,Dan Nehnevaj,444,Columbia River,District 4,301.0,290.18,289.7,280.0,2015
+617,2575007,Riley Hein,450,Camas,District 4,306.0,304.3,271.13,269.72,2014
+618,2575009,Zach Hein,450,Camas,District 4,330.0,308.0,291.3,303.0,2014
+619,2575032,Hunter Schow,450,Camas,District 4,348.0,326.0,318.0,288.0,2014
+620,4037411,Connor Werdel,444,Columbia River,District 4,397.5,380.0,391.0,410.7,2015
+621,3579352,Ben Brooks,544,Kamiakin,District 5,291.08,284.13,277.74,265.57,2015
+622,3692713,Levi Davies,544,Kamiakin,District 5,298.5,297.98,299.49,291.41,2015
+623,3658375,Grant Gilbert,550,Eastmont,District 6,298.8,290.82,287.3,311.35,2015
+624,3579364,Andrew Snyder,544,Kamiakin,District 5,299.2,268.6,266.41,258.07,2015
+625,3579361,Jonathan Lafferty,544,Kamiakin,District 5,302.65,292.22,282.17,276.12,2015
+626,4020784,Eric Ballard,550,Eastmont,District 6,310.2,303.73,282.64,291.0,2015
+627,3658379,Zachary Parsons,550,Eastmont,District 6,324.17,315.57,300.15,287.27,2015
+628,3628920,Martin Kindle,461,Hanford,District 5,351.44,344.18,324.7,330.8,2015
+629,3644572,Tristan Peloquin,506,Gig Harbor,District 3,262.42,256.42,253.62,258.85,2015
+630,3584313,Gabe Fejeran,527,Curtis,District 3,275.59000000000003,272.98,269.77,273.07,2014
+631,2554581,Brendan Long,499,Skyline,District 2,279.5,273.42,274.2,277.94,2014
+632,3588976,Shay Glackin-Coley,515,Stadium,District 3,275.48,282.5,271.22,267.52,2015
+633,2599195,Kevin Sandquist,488,Stanwood,District 1,324.39,295.3,295.44,283.37,2014
+634,3657314,Caleb Smith,472,Arlington,District 1,312.4,308.5,294.8,282.86,2015
+635,3645135,Robert Williams,487,Snohomish,District 1,316.7,299.7,291.39,290.01,2015
+636,3652683,Isaiah Britt,478,Lake Stevens,District 1,316.7,283.16,273.16,285.75,2015
+637,3644864,West Weinert,488,Stanwood,District 1,325.1,304.72,299.32,298.15,2015
+638,1941866,Kyle Myers,482,Monroe,District 1,372.8,339.68,327.71,343.98,2013
+639,3644840,Nick Uhrich,488,Stanwood,District 1,337.4,328.4,316.59,317.11,2015
+640,3602027,Tyler Stevenson,482,Monroe,District 1,345.2,331.1,333.6,329.2,2015
+641,2597692,Ian Galope,479,Mariner,District 1,337.74,322.2,329.64,322.05,2014
+642,2578000,Elliot Harrison,474,Edmonds-Woodway,District 1,333.37,329.2,304.46,298.9,2014
+643,3647641,Ken Tran,473,Cascade (Everett),District 1,338.6,335.3,305.9,293.19,2015
+644,3645270,Kyle Aitken,474,Edmonds-Woodway,District 1,339.15,295.0,293.8400000000001,292.1,2015
+645,2559649,Eric Keenan,497,Redmond,District 2,315.08,297.9,278.9,270.3,2013
+646,7532077,Joey Nakao,499,Skyline,District 2,280.6,279.35,266.7,263.78,2014
+647,2581498,Kyle Suver,491,Eastlake,District 2,318.0,279.59000000000003,272.35,270.19,2014
+648,2580393,James Hamilton,412,Newport (Bellevue),District 2,287.4,280.6,272.6,272.53,2014
+649,1462337,Christophe Chamberland,412,Newport (Bellevue),District 2,310.0,297.1,283.63,272.2,2013
+650,1966975,Joel Jacobs,493,Garfield,District 2,329.8,300.44,286.85,278.5,2013
+651,1426697,Hunter Sapienza,408,Issaquah,District 2,358.9,298.92,287.0,269.1,2013
+652,3623877,Harry Engel,497,Redmond,District 2,301.0,287.1,276.6,281.9,2014
+653,2554567,Ryan Abrahamsen,499,Skyline,District 2,305.7,295.6,282.0,288.0,2014
+654,536893,Micah Berg,500,Woodinville,District 2,349.7,320.4,305.65,296.0,2012
+655,3643672,Hanson Lee,489,Ballard,District 2,299.3400000000001,282.3,289.12,276.3,2015
+656,2574282,Tony Elias,527,Curtis,District 3,309.18,288.1,286.27,289.7,2014
+657,3573333,Darius Burke,513,Shelton,District 3,288.23,279.52,278.2,292.1,2015
+658,3585896,Jared McMeen,523,Kentwood,District 3,290.74,273.03,274.05,271.31,2015
+659,3644837,Tyler Perrin,517,Auburn,District 3,292.3,285.8400000000001,281.31,279.56,2015
+660,3636301,Will Sherman,501,Bellarmine Prep,District 3,293.3,282.1,273.86,271.48,2015
+661,4673317,Jonathan Mangas,382,Cashmere,District 6,290.28,293.08,290.07,283.24,2016
+662,4703473,Daniel Olmstead,381,Cascade (Leavenworth),District 6,292.0,282.9,286.48,286.7,2016
+663,3217151,Zack Crossley,332,Zillah,District 5,293.2,293.4,284.75,281.09000000000003,2016
+664,4740818,Ron Roberts,354,Eatonville,District 4,299.23,291.63,284.04,291.2,2016
+665,5227848,Josiah Kroontje,374,Connell,District 5,299.97,292.8,307.95,279.11,2016
+666,4679797,Josh Lingbloom,349,Lynden Christian,District 1,313.57,295.6,284.27,277.95,2016
+667,4523125,Conner Jones,352,Nooksack Valley,District 1,321.11,302.04,279.25,290.58,2016
+668,4696872,Spenser Dodge,348,Blaine,District 1,351.4,330.4,320.19,341.02,2016
+669,5145496,Jason Vassallo,308,University Prep,District 2,303.28,325.08,289.81,286.6,2016
+670,4698206,Jack Allnutt,309,Seattle Academy,District 2,320.6,309.2,288.99,281.4,2016
+671,4698213,Yale Warner,309,Seattle Academy,District 2,337.6,298.8,295.8,307.38,2016
+672,4691665,Ryan Burnett,301,Bellevue Christian,District 3,376.5,361.0,388.62,402.07,2016
+673,4512914,Lukas Starks,363,Elma,District 4,313.2,298.0,296.61,344.83,2016
+674,4512919,Brody Burbidge,363,Elma,District 4,322.3,316.0,310.59,304.0,2016
+675,5240605,Connor Lovell,366,Montesano,District 4,332.88,285.9,293.67,279.6,2016
+676,4709910,Terrell Dawes,332,Zillah,District 5,319.06,311.6,303.4,295.2,2016
+677,4681430,Carter Syrie,374,Connell,District 5,333.1,315.86,298.57,293.04,2016
+678,5164545,Marcos Cruz,325,Wahluke,District 5,337.83,348.08,335.14,344.1,2016
+679,5240880,Marques Chacon,429,Evergreen (Seattle),District 3,272.45,265.74,266.26,263.07,2016
+680,5240881,Matthew Chacon,429,Evergreen (Seattle),District 3,282.49,268.7,268.03,267.51,2016
+681,3598910,Kurt Lamon,496,Lake Washington,District 2,324.0,282.83,280.3,278.8,2015
+682,5020987,Ethan Lockhart,496,Lake Washington,District 2,330.2,285.49,283.28,274.69,2015
+683,5186352,Thor Wagoner,401,Sedro-Woolley,District 1,295.17,281.1,276.49,277.92,2016
+684,4700459,Dante Gadbois,344,Granite Falls,District 1,295.21,280.2,278.97,280.75,2016
+685,4720291,Nicholas Sorgen,347,Sultan,District 1,297.22,301.46,292.74,293.24,2016
+686,2626674,Dylan Holland,396,Anacortes,District 1,297.49,275.56,257.5,258.05,2016
+687,4634137,Colton Johnsen,402,Sehome,District 1,309.5,286.7,262.15,255.95,2016
+688,4692453,Vincent Dams,394,Cedarcrest,District 1,314.7,308.87,282.3400000000001,288.3400000000001,2016
+689,4692458,Isaac Harper,394,Cedarcrest,District 1,316.72,316.09,292.46,310.93,2016
+690,4634136,Jorge Hernandez,402,Sehome,District 1,323.2,321.48,293.4,320.62,2016
+691,4703213,Austin Hughes,396,Anacortes,District 1,324.8,308.09,315.27,304.12,2016
+692,4679172,Sam Riccardi,396,Anacortes,District 1,327.7,305.3,298.76,282.96,2016
+693,4692456,Simon Fraser,394,Cedarcrest,District 1,333.26,332.41,297.49,298.17,2016
+694,4692452,Lars Candland,394,Cedarcrest,District 1,333.91,330.9,310.71,312.2,2016
+695,4723720,Kameron Jones,435,Renton,District 3,292.44,277.53,273.61,265.82,2016
+696,4775088,Blake Cheshier,357,Orting,District 3,309.9,303.0,326.0,299.0,2016
+697,3242430,Joshua Terre,438,Fife,District 3,313.09,289.76,287.18,279.7,2016
+698,4717321,Dupree Nugent,433,Lindbergh,District 3,314.32,297.64,279.53,276.09000000000003,2016
+699,4858622,Ben Ghigleri,438,Fife,District 3,314.68,338.7,316.9,307.9,2016
+700,5221935,Ben Monroe,427,North Mason,District 3,321.21,308.99,301.31,293.8400000000001,2016
+701,5221900,Jeremiah Lambert,427,North Mason,District 3,330.55,340.16,296.1,284.86,2016
+702,5180463,Hunter Dempsey,512,Port Angeles,District 3,331.25,295.94,314.57,299.62,2016
+703,4757070,Trevor Handyside,427,North Mason,District 3,380.31,382.58,388.09,406.72,2016
+704,4701926,David Bock,436,Tyee,District 3,343.31,357.62,346.16,342.66,2016
+705,5178886,Austin Mckay,524,Sumner,District 3,368.23,330.8,340.43,333.56,2016
+706,4669261,Jonah Valler,457,Tumwater,District 4,291.77,281.57,275.72,304.11,2016
+707,2673171,Andrew Dellsite,457,Tumwater,District 4,297.78,288.92,291.91,282.03,2016
+708,4715266,Terek Thornburg,458,W F West,District 4,302.94,286.22,277.9,306.88,2016
+709,5161887,Sam Andersen,370,Ridgefield,District 4,318.18,314.13,295.1,285.4,2016
+710,4726490,Steven Wallis,447,Mark Morris,District 4,318.2,295.58,286.57,280.09000000000003,2016
+711,4733778,Collin Manning,449,Washougal,District 4,320.0,299.0,294.6,308.78,2016
+712,5206740,Josh Broek,451,Black Hills,District 4,345.76,319.81,312.49,314.51,2016
+713,5148563,Christopher Pham,457,Tumwater,District 4,358.5,349.1,331.34,331.63,2016
+714,4698914,Colton Hoggarth,466,West Valley (Yakima),District 6,292.78,288.74,275.81,262.89,2016
+715,4701870,Travis Gylling,460,Ellensburg,District 5,309.05,286.39,286.99,293.21,2016
+716,4693109,Isaac Leavitt,463,Selah,District 5,317.52,297.97,291.3,272.32,2016
+717,4735493,Carlos Granados,376,Grandview,District 5,319.0,313.1,304.9,298.04,2016
+718,4698806,Samuel Showman,462,Prosser,District 5,337.6,318.7,335.0,350.0,2016
+719,4693089,Jordan Winterfeld,463,Selah,District 5,351.19,375.04,347.2,375.5,2016
+720,4693064,Jared Martin,463,Selah,District 5,351.39,368.6,340.41,320.44,2016
+721,4740161,Peter Allegre,454,North Thurston,District 3,276.69,269.42,263.05,272.42,2016
+722,4687452,Garren Arnold,22531,Glacier Peak,District 1,299.8,279.38,276.84000000000003,272.39,2016
+723,4728751,Thomas Lindgren,39269,Marysville Getchell,District 1,302.0,291.28,288.01,282.97,2016
+724,4669653,Siem Hailai,486,Shorewood,District 1,314.53,300.55,290.91,294.75,2016
+725,4669647,Aaron Rainboth,486,Shorewood,District 1,315.47,289.9,280.55,268.9,2016
+726,4682322,Jason Ernst,483,Mountlake Terrace,District 1,322.9,316.2,305.2,309.0,2016
+727,3586931,Emilio Garcia,405,Shorecrest,District 1,357.27,361.11,347.67,337.61,2015
+728,5137151,MacKenzie Siemens,483,Mountlake Terrace,District 1,363.0,330.68,315.9,314.56,2016
+729,3627254,Spencer McCuistion,486,Shorewood,District 1,425.26,438.9,458.4,404.94,2015
+730,3635450,Arthur Lane,415,Bishop Blanchet,District 2,334.8,294.8,283.9,275.74,2015
+731,4656317,Peter Hogan,415,Bishop Blanchet,District 2,294.9,271.09,264.08,255.31,2016
+732,5176986,Kian Deshler,422,Nathan Hale,District 2,297.9,289.29,274.7,275.44,2016
+733,4777103,Kyle Grambihler,418,Eastside Catholic,District 2,298.04,297.99,292.24,267.17,2016
+734,5248570,Johannes Griesser,414,Bainbridge,District 2,317.13,307.1,294.02,290.06,2016
+735,4740921,Benjamin Wagstaff,425,Seattle Prep,District 2,318.19,310.21,290.3400000000001,279.3,2016
+736,4647351,Zachary Keyes,422,Nathan Hale,District 2,321.3,293.25,274.14,280.8,2016
+737,5248967,Aaron Trapp,414,Bainbridge,District 2,326.19,323.33,311.7,302.0,2016
+738,4737890,Josiah Williams,528,Decatur,District 3,288.25,292.61,285.94,290.18,2016
+739,5175337,Bennett Hillier,19375,Bonney Lake,District 3,300.34,275.27,268.8,272.23,2016
+740,4742948,Drake Adams,513,Shelton,District 3,301.96,313.21,297.98,288.97,2016
+741,4709788,Dominic Lauer,441,Peninsula,District 3,305.4,282.0,276.27,269.24,2016
+742,5223115,Nick Zellerhoff,528,Decatur,District 3,306.4,292.31,290.25,297.03,2016
+743,5154369,Jack Bowen,440,Lakes,District 3,315.4,325.0,301.0,300.73,2016
+744,3937348,Chris Frost,513,Shelton,District 3,321.87,328.83,316.57,313.54,2015
+745,5166214,Sam Rutherford,441,Peninsula,District 3,332.1,339.8,332.85,334.85,2016
+746,4709793,Chandler Rogers,441,Peninsula,District 3,338.1,309.6,305.6,299.06,2016
+747,4687962,Caleb Schleicher,540,Prairie,District 4,295.89,294.31,285.63,286.8,2016
+748,4699555,Phillip Fishburn,544,Kamiakin,District 5,297.19,275.98,269.73,265.47,2016
+749,4699558,Travis Crumpler,544,Kamiakin,District 5,309.83,295.07,277.22,272.72,2016
+750,3975132,Andre Cavazos,464,Sunnyside,District 6,387.06,356.64,362.73,354.58,2015
+751,10875797,Jack Yearian,501,Bellarmine Prep,District 3,263.3,248.5,250.78,247.68,2016
+752,3650056,Cole Christman,552,Wenatchee,District 6,298.91,263.38,252.36,249.94,2015
+753,3962866,Keaton Spiller,537,Heritage,District 4,279.16,266.43,267.3,270.0,2015
+754,4735229,Nathan Pixler,491,Eastlake,District 2,266.68,259.33,255.72,265.11,2016
+755,4673669,Austin Anderson,504,Central Kitsap,District 3,278.07,266.78,280.21,271.39,2015
+756,2955913,James Breen,537,Heritage,District 4,303.0,288.22,269.88,266.35,2014
+757,4663958,Kennan Schrag,408,Issaquah,District 2,272.4,264.93,258.09,257.47,2016
+758,3647261,Kaden Harbertson,541,Skyview,District 4,281.08,272.44,270.75,258.47,2015
+759,4701620,Nathan Beamer,472,Arlington,District 1,286.0,257.82,258.36,252.78,2016
+760,5201539,Seth Villanueva,477,Kamiak,District 1,298.62,289.95,271.75,276.9,2015
+761,4658707,Hans Thoreson,487,Snohomish,District 1,290.43,280.96,279.38,279.66,2016
+762,4773931,Benjamin Yang,474,Edmonds-Woodway,District 1,292.69,295.91,287.43,283.75,2016
+763,4701618,Ivan Baez,472,Arlington,District 1,297.0,296.1,281.16,291.96,2016
+764,5205671,Pieter Andrews,472,Arlington,District 1,304.09,280.3,269.62,270.89,2016
+765,4773922,Anindo Khan,474,Edmonds-Woodway,District 1,305.21,298.9,322.2,309.38,2016
+766,5201462,Hobb Kimmerling,477,Kamiak,District 1,307.0,290.39,300.01,274.45,2016
+767,4701635,Jacob Fankhauser,472,Arlington,District 1,311.0,298.22,290.1,298.33,2016
+768,4701675,Matthew Taylor,472,Arlington,District 1,314.28,288.0,276.64,281.76,2016
+769,4670226,Edgar Santos,473,Cascade (Everett),District 1,314.9,295.5,289.05,283.71,2016
+770,4773920,Jacob Henrichsen,474,Edmonds-Woodway,District 1,315.55,321.7,302.83,311.63,2016
+771,4692510,Peter Miyoshi,482,Monroe,District 1,341.61,339.3,307.6,328.97,2016
+772,4701674,Tylor Sullivan,472,Arlington,District 1,350.0,311.1,291.65,286.89,2016
+773,4835446,Biniam Tesfaghaber,474,Edmonds-Woodway,District 1,319.2,337.44,296.82,286.15,2016
+774,5223445,Alex Yuwantoro,479,Mariner,District 1,327.76,314.88,300.47,290.43,2016
+775,8985098,Jordan Markezich,500,Woodinville,District 2,277.19,277.58,275.19,258.62,2015
+776,4727816,Henry Hayes,493,Garfield,District 2,277.6,282.4,266.47,257.24,2016
+777,10742238,Adamson Bryant,491,Eastlake,District 2,283.06,263.7,257.9,266.83,2016
+778,4018802,Nicholas Strach,499,Skyline,District 2,305.3,284.78,285.0,280.85,2015
+779,4657753,Jacob Brueckman,408,Issaquah,District 2,288.1,279.0,259.68,255.0,2016
+780,3643675,Luigi Maiorano,489,Ballard,District 2,316.4,293.42,285.0,296.38,2015
+781,3652670,Kevin Zhao,499,Skyline,District 2,310.9,295.8,292.14,310.0,2015
+782,3886324,Benajamin Klinkman-Sinatra,489,Ballard,District 2,315.62,296.87,296.62,290.24,2015
+783,3643725,Ethan Martin,489,Ballard,District 2,327.2,297.6,289.0,294.81,2015
+784,2515257,John Carter,489,Ballard,District 2,321.6,304.1,299.18,307.2,2014
+785,3961377,Eric Chen,412,Newport (Bellevue),District 2,302.3,305.0,291.0,285.5,2016
+786,3584331,Logan Cleary,499,Skyline,District 2,324.8,302.5,292.55,283.5,2015
+787,4687667,Tristan Houser,525,Tahoma,District 3,277.63,270.06,259.02,262.13,2016
+788,2533046,Isaia Tiangson,518,Auburn Riverside,District 3,310.78,297.24,283.43,279.72,2014
+789,4736048,Ryan Gregory,506,Gig Harbor,District 3,284.85,275.06,272.12,266.09,2016
+790,5140655,Graeme Schroeder,525,Tahoma,District 3,286.38,265.44,257.56,258.35,2016
+791,3570936,Daniel Kelly,504,Central Kitsap,District 3,306.7,287.44,280.2,290.44,2015
+792,8717095,Connor Bates,529,Emerald Ridge,District 3,308.18,290.52,280.57,273.12,2015
+793,4699370,Nick Gennarelli,525,Tahoma,District 3,290.6,283.94,271.9,280.69,2016
+794,4772620,Connor Low,530,Federal Way,District 3,290.65,279.01,273.15,269.35,2016
+795,4697463,Porter Kreier,19383,Graham-Kapowsin,District 3,293.17,278.67,273.4,268.91,2016
+796,4687666,Keegan Fitzpatrick,525,Tahoma,District 3,293.3,269.97,268.7,268.83,2016
+797,3644539,Charlie Carpenter,506,Gig Harbor,District 3,312.5,297.31,296.01,279.51,2015
+798,4685513,Noah Murry,510,Olympia,District 3,301.03,291.66,281.09000000000003,269.38,2016
+799,3570830,Daniel Allen,504,Central Kitsap,District 3,329.22,303.3,313.31,324.76,2015
+800,2489927,Joel Corlew,504,Central Kitsap,District 3,303.73,325.07,314.03,310.47,2014
+801,3588980,Emmanuel Robi,515,Stadium,District 3,315.0,316.5,296.05,306.82,2015
+802,2560298,Trevor Dent,515,Stadium,District 3,369.6,337.06,319.7,312.67,2014
+803,3644580,Eldon Sorensen,506,Gig Harbor,District 3,335.4,327.1,306.47,280.41,2015
+804,4012980,Max Berryman,506,Gig Harbor,District 3,337.53,330.82,314.96,315.77,2015
+805,4736596,Gavin Spadoni,506,Gig Harbor,District 3,345.69,314.78,325.25,321.74,2016
+806,3572647,Dax Tate,518,Auburn Riverside,District 3,322.0,298.97,295.13,270.31,2015
+807,2576485,Adam Stafford,517,Auburn,District 3,311.33,317.98,304.2,294.67,2014
+808,3572628,Daniel Arnold,518,Auburn Riverside,District 3,328.35,304.32,303.91,299.33,2015
+809,3584305,Seth Austin,527,Curtis,District 3,333.0,305.8,298.37,294.98,2015
+810,2533030,Andrew Cooper,518,Auburn Riverside,District 3,318.4,298.8,306.8,320.74,2014
+811,2533039,Sean Kierce,518,Auburn Riverside,District 3,333.1,314.17,311.1,322.33,2014
+812,3992117,Jack Bull,530,Federal Way,District 3,336.62,317.07,327.1,326.29,2015
+813,4743778,Cameron Link,517,Auburn,District 3,323.15,319.69,303.4,307.74,2016
+814,5140113,Jonathan Forward,530,Federal Way,District 3,328.28,289.16,290.31,279.32,2016
+815,5187733,Lorenzo Pickens,19369,Todd Beamer,District 3,339.06,298.48,289.26,278.13,2016
+816,1481849,Alex Bruell,530,Federal Way,District 3,355.11,335.8,331.78,346.07,2013
+817,4708037,Armando Valencia,518,Auburn Riverside,District 3,350.83,319.14,318.11,332.77,2016
+818,5168714,Tommy Broch,518,Auburn Riverside,District 3,358.93,334.83,297.96,295.56,2016
+819,3700591,Omar Diaz,530,Federal Way,District 3,400.13,362.27,376.18,378.79,2015
+820,5223866,Jasper Jung,517,Auburn,District 3,364.5,385.43,366.79,354.82,2016
+821,3645576,Drew Gilomen,521,Kentlake,District 3,304.72,298.9,308.67,301.07,2015
+822,4690289,Bobby Belter,523,Kentwood,District 3,299.99,285.47,284.14,287.96,2016
+823,3620755,Troy Gamble,522,Kentridge,District 3,326.3,311.6,301.65,291.17,2015
+824,2532743,Connor Rosin,522,Kentridge,District 3,355.3,326.12,315.0,326.34,2014
+825,4768689,Brendan Stamper,523,Kentwood,District 3,334.73,299.54,295.38,286.03,2016
+826,2547807,Noel Reyes,535,Battle Ground,District 4,321.3,300.0,280.4,307.6,2014
+827,4699097,Quinn Nelson,535,Battle Ground,District 4,283.92,268.23,271.27,270.48,2016
+828,3638064,Jordan Moore,20354,Union,District 4,304.0,284.3,263.34,265.81,2015
+829,3647252,Ethan Bauer,541,Skyview,District 4,313.0,292.17,301.1,277.05,2015
+830,2548388,Brian Keniston,20354,Union,District 4,331.0,317.0,294.0,279.7,2014
+831,4738208,Dustin Zimmerly,450,Camas,District 4,294.2,277.32,284.5,274.9,2016
+832,4116441,Tyler McGrath,536,Evergreen (Vancouver),District 4,308.0,296.5,291.76,302.1,2015
+833,2963580,Brandon Rasmusson,536,Evergreen (Vancouver),District 4,341.3,319.0,297.0,305.19,2014
+834,2984395,Isaac Brown,535,Battle Ground,District 4,322.0,302.3,297.03,288.0900000000001,2014
+835,2578832,Tyler Hansen,20354,Union,District 4,310.0,305.1,303.4,282.0,2014
+836,3647262,Justin Knowles,541,Skyview,District 4,300.93,304.0,300.2,296.0,2015
+837,2548384,Brandon Reyes,20354,Union,District 4,315.0,298.8,310.0,290.6,2014
+838,4031502,Jonny Collier,20354,Union,District 4,340.0,314.0,312.7,330.0,2015
+839,4699094,Jonas Matson,535,Battle Ground,District 4,322.5,305.9,303.0,289.72,2016
+840,5176328,Cade Wiger,541,Skyview,District 4,335.0,318.6,299.37,306.0,2016
+841,4738176,Ben Peterson,450,Camas,District 4,340.0,315.0,300.5,305.2,2016
+842,4031526,Dom Gianatassio,20354,Union,District 4,388.8,360.0,335.1,332.0,2015
+843,5241575,Branden Clarno,20354,Union,District 4,413.0,413.7,458.0,399.0,2016
+844,4023943,Elijah Shelby,547,Richland,District 5,306.14,276.41,265.0,266.09,2015
+845,4687699,Jonah Sandoval,547,Richland,District 5,281.12,271.74,262.76,257.62,2016
+846,3619223,Brandon Crawford,547,Richland,District 5,300.51,288.58,279.2,280.3,2015
+847,5171493,Ricardo Saenz,546,Pasco,District 5,294.63,299.06,294.12,287.82,2016
+848,3619242,Trevor Morrow,547,Richland,District 5,299.07,298.81,282.11,280.5,2015
+849,3654046,Micah Wilwand,549,Walla Walla,District 5,333.69,315.25,297.18,292.04,2015
+850,4719392,Adolfo Garcia,549,Walla Walla,District 5,331.46,320.93,312.0,307.0,2016
+851,4701893,Juan Mojica,29898,Chiawana,District 5,335.8,313.77,305.4,328.06,2016
+852,4828219,Jarod Hulsizer,321,Kalama,District 4,295.8,273.34000000000003,277.33,277.98,2017
+853,6511803,Craig Lambert,301,Bellevue Christian,District 3,285.0,274.2,266.55,272.68,2017
+854,7398086,Dillon Rising,322,Goldendale,District 5,279.53,277.65,272.67,264.31,2018
+855,5868486,Dillon Dawson,383,Chelan,District 6,308.0,279.76,266.29,267.23,2017
+856,5860321,Matt Jackson,345,King's,District 1,284.42,281.17,285.26,268.55,2017
+857,5851879,McCrea Black,347,Sultan,District 1,298.17,283.25,281.0,281.18,2017
+858,5904995,Victor Garcia,330,Royal,District 5,295.4,285.04,292.13,329.98,2017
+859,5926714,Colin Howe,368,Columbia (White Salmon),District 4,297.86,288.44,289.12,294.79,2017
+860,7845569,Brooks DeWaard,349,Lynden Christian,District 1,289.33,274.82,271.08,266.29,2018
+861,5868500,Mereck Palazzo,383,Chelan,District 6,306.41,291.2,268.53,262.75,2017
+862,6460335,William Nuckoles,368,Columbia (White Salmon),District 4,297.02,293.76,288.04,285.18,2017
+863,4768230,Jared Donnel,301,Bellevue Christian,District 3,294.5,283.89,274.27,273.35,2018
+864,5973575,Michael Jagelski,322,Goldendale,District 5,312.29,297.27,293.8400000000001,302.57,2017
+865,4773565,Luke Poling,568,Bear Creek,District 2,302.1,318.89,298.0,300.5,2016
+866,6489626,Collin Burns,395,South Whidbey,District 1,331.75,303.85,292.78,285.62,2017
+867,5906907,Cory Ackerman,395,South Whidbey,District 1,315.94,315.47,301.8,297.81,2017
+868,6485723,Colten Starbuck,352,Nooksack Valley,District 1,359.2,325.15,321.12,332.0,2017
+869,5897935,Oliver Dunn,303,Bush,District 2,321.63,312.8,299.07,291.28,2017
+870,7380474,Ethan Widlansky,303,Bush,District 2,315.0,285.5900000000001,278.47,268.06,2018
+871,5844758,Sean Gallagher,568,Bear Creek,District 2,310.91,319.1,309.47,325.7,2017
+872,5897042,Andrew Neumann,312,Seattle Christian,District 3,326.24,316.64,312.91,317.46,2017
+873,6428168,Gabe Belcher,363,Elma,District 4,357.32,321.4,350.0,321.0,2017
+874,7790649,Brennan Hall,354,Eatonville,District 4,330.6,320.91,330.86,324.93,2018
+875,5518843,Silver Beltran,330,Royal,District 5,311.92,300.47,301.39,299.08,2018
+876,5880572,Aaron Cardoza,328,Granger,District 5,322.12,313.76,307.29,313.84,2017
+877,7389674,Pierson Jones,378,Naches Valley,District 5,316.39,299.76,297.6,313.8,2018
+878,7330683,Ian Redfield,332,Zillah,District 5,319.19,312.0,308.3,298.5,2018
+879,7877630,Alfonso Price,328,Granger,District 5,332.0,290.44,281.72,278.85,2018
+880,7320133,Evan Gambill,382,Cashmere,District 6,314.0,280.48,282.76,280.2,2018
+881,7358565,Javier Torres,383,Chelan,District 6,316.3,317.06,303.94,301.46,2018
+882,6493949,Silas Griffith,370,Ridgefield,District 4,281.6,269.54,266.93,258.5,2017
+883,5902671,James Parker,396,Anacortes,District 1,297.0,269.94,268.34,262.18,2017
+884,5889778,Brigham Cardon,463,Selah,District 5,277.9,271.28,257.32,256.3,2017
+885,7281729,Cade Brown,397,Bellingham,District 1,272.98,265.48,267.93,264.35,2018
+886,5939241,Nate Jensvold,460,Ellensburg,District 5,291.23,274.26,264.36,260.81,2017
+887,5842097,Evan Groat,457,Tumwater,District 4,287.14,274.92,265.53,260.4,2017
+888,5871956,Ian Fay,394,Cedarcrest,District 1,285.88,276.62,264.34,259.58,2017
+889,12296389,Bryce Johnson,402,Sehome,District 1,305.0,276.9,267.68,273.12,2017
+890,6459375,James Hafner,346,Lakewood,District 1,312.82,277.22,283.19,286.63,2017
+891,5833627,Anthony Meza,346,Lakewood,District 1,309.31,277.59000000000003,283.25,275.97,2017
+892,5858852,Macauley Franks,405,Shorecrest,District 1,311.77,278.77,273.35,268.72,2017
+893,5835163,Aiden Pullen,449,Washougal,District 4,284.9,279.9,276.45,266.18,2017
+894,5907109,Brad Anderson,439,Franklin Pierce,District 3,298.31,281.07,267.86,271.03,2017
+895,7815171,Vance Voetberg,453,Centralia,District 4,282.0,286.04,273.92,262.39,2018
+896,6500908,Austin Spader,357,Orting,District 3,284.51,286.27,285.46,289.07,2017
+897,5888754,Hunter Ashby,398,Burlington-Edison,District 1,297.02,286.39,278.47,293.0,2017
+898,10991975,Andrew Simon,20538,Kingston,District 3,286.85,270.63,269.87,265.26,2018
+899,7318077,Ben Benson,394,Cedarcrest,District 1,287.93,277.77,273.89,272.21,2018
+900,5831048,Jackson Slesk,402,Sehome,District 1,316.8,292.0,278.08,285.33,2017
+901,5831026,Logan Franey,402,Sehome,District 1,305.32,293.4,275.64,271.52,2017
+902,7281746,Ty Veldhuisen,397,Bellingham,District 1,293.7,281.86,274.44,274.94,2018
+903,7318088,Grant Van Valkenburg,394,Cedarcrest,District 1,295.27,269.04,260.24,258.88,2018
+904,7359155,James Klinman,344,Granite Falls,District 1,296.87,293.8,289.07,279.64,2018
+905,5902683,Jeff Vazquez,396,Anacortes,District 1,325.6,300.28,312.48,285.35,2017
+906,7329948,Timothy Crabtree,397,Bellingham,District 1,306.2,296.19,317.92,284.85,2018
+907,5977114,Patrick Joyce,405,Shorecrest,District 1,314.13,306.29,296.87,295.39,2017
+908,7318082,Emmett Klaiber,394,Cedarcrest,District 1,312.81,297.25,299.21,301.0,2018
+909,7318086,Daniel Murphy,394,Cedarcrest,District 1,318.58,295.77,282.16,288.83,2018
+910,7359165,Aiden Holm,344,Granite Falls,District 1,322.0,290.15,283.51,277.3,2018
+911,7867847,Spencer Solvberg,346,Lakewood,District 1,324.99,334.86,303.43,273.87,2018
+912,7308131,Kent Scollard,405,Shorecrest,District 1,327.68,298.35,292.8,287.14,2018
+913,7318090,Austin Ward,394,Cedarcrest,District 1,330.49,295.06,286.86,275.94,2018
+914,7359167,Austin Theriault,344,Granite Falls,District 1,333.49,316.4,311.26,307.85,2018
+915,7357526,Jacob Gervais,403,Squalicum,District 1,335.7,328.95,300.75,296.17,2018
+916,7648321,TJ VanderYacht,400,Lynden,District 1,388.2,330.93,340.49,327.73,2018
+917,7387837,Gunnar Hansen,413,Sammamish,District 2,310.55,293.55,287.55,284.29,2018
+918,7387840,Daniel Teplow,413,Sammamish,District 2,314.04,299.37,295.8,297.68,2018
+919,5890959,Tavell Cox,442,Washington,District 3,302.37,290.6,288.31,299.7,2017
+920,10239178,David Blalock,509,North Kitsap,District 3,292.82,292.32,284.71,279.26,2018
+921,7822781,Xander Robertson,20538,Kingston,District 3,293.95,279.74,305.24,287.05,2018
+922,7315414,Cato Cannizzo,455,River Ridge,District 3,303.23,321.39,331.54,336.5,2018
+923,5900142,Chase O'Brien,433,Lindbergh,District 3,333.77,304.2,307.01,321.5,2017
+924,5890988,Caleb Foxx,442,Washington,District 3,309.08,304.83,298.48,305.3,2017
+925,5900339,William Le,439,Franklin Pierce,District 3,339.5,309.0,319.44,315.6,2017
+926,5900140,Deven Maddy,433,Lindbergh,District 3,306.45,313.72,283.5900000000001,273.48,2017
+927,5937823,nikolas Shirkey,359,Steilacoom,District 3,323.68,316.1,338.29,331.84,2017
+928,7389906,Joshua Adamson,442,Washington,District 3,317.81,356.0,338.35,361.66,2018
+929,7420667,Rudu Wani,439,Franklin Pierce,District 3,320.5,302.59,287.49,267.61,2018
+930,5900366,Josiah Barrett,439,Franklin Pierce,District 3,357.15,323.0,294.67,274.5,2017
+931,7425239,Timothy Lara,509,North Kitsap,District 3,327.68,313.14,304.15,293.65,2018
+932,5926878,Alexander Chow,509,North Kitsap,District 3,350.0900000000001,346.24,309.15,316.05,2017
+933,14051656,Donovan LeRoy,509,North Kitsap,District 3,359.06,333.23,331.1,299.05,2018
+934,7407111,Matthew Fox,511,Olympic,District 3,368.42,325.97,328.75,330.64,2018
+935,7358407,Brandon Hooper,433,Lindbergh,District 3,329.37,318.27,314.01,336.51,2018
+936,6489390,Rohan Mathew,355,Foster,District 3,347.8,334.0,331.53,346.75,2017
+937,7451091,Kirby Bui,429,Evergreen (Seattle),District 3,339.43,312.79,315.29,302.86,2018
+938,5919504,Xavier Bendorf,438,Fife,District 3,370.42,333.3,325.65,317.43,2017
+939,5890995,Richard Palmer,442,Washington,District 3,405.55,391.2,376.0,347.0,2017
+940,6476987,Benny Basilian,437,Clover Park,District 3,435.55,421.92,422.2,439.59,2017
+941,7307697,Joseph Morrissey,457,Tumwater,District 4,290.23,287.32,276.24,279.8,2018
+942,5860780,Kyle Peterson,361,Hockinson,District 4,318.8,292.83,286.96,271.49,2017
+943,7540984,Daniel Morales,453,Centralia,District 4,293.29,284.58,293.26,295.36,2018
+944,7379890,Miles Bethel,370,Ridgefield,District 4,294.85,303.3,293.8,286.46,2018
+945,5859627,Cylas Belknap,367,Rochester,District 4,291.7,296.0,305.12,311.76,2017
+946,5245159,Kelin Pasko,367,Rochester,District 4,296.2,297.45,284.07,279.69,2018
+947,5858069,Alex Ikerd,373,Woodland,District 4,305.7,296.33,310.86,325.87,2017
+948,7307690,Ryan Knight,457,Tumwater,District 4,300.75,285.75,282.65,284.05,2018
+949,7309792,Josiah Anderson,373,Woodland,District 4,301.5,292.89,297.0,308.55,2018
+950,7795403,Quinn Hinman,451,Black Hills,District 4,315.33,304.13,298.5900000000001,300.6,2018
+951,7379635,Brandon Lehto,370,Ridgefield,District 4,317.3,326.36,303.2,286.5,2017
+952,5880633,Caleb Geringer,453,Centralia,District 4,351.13,336.11,312.37,335.41,2017
+953,5945086,Braden Yates,448,R A Long,District 4,357.55,338.96,316.9,295.65,2017
+954,7828208,Luis Luque Torres,538,Hudson's Bay,District 4,347.0,361.56,333.0,328.0,2018
+955,7154454,Micah Turner,538,Hudson's Bay,District 4,354.0,337.9,314.0,308.87,2018
+956,5880643,Treven Raish,453,Centralia,District 4,369.79,384.01,368.05,377.64,2017
+957,5899883,Andrew Goaring,370,Ridgefield,District 4,371.45,357.7,346.1,337.4,2017
+958,7419534,Juan Lara,380,Toppenish,District 5,322.8,291.62,283.26,283.71,2017
+959,7400077,Daniel Callahan,463,Selah,District 5,295.1,284.79,275.04,258.8,2018
+960,7324092,Adrian Benitez,376,Grandview,District 5,308.2,292.13,286.83,277.1,2018
+961,5995430,Tito Torres,462,Prosser,District 5,343.93,311.55,312.16,301.71,2017
+962,7419552,Anthony Sanchez,380,Toppenish,District 5,314.53,307.56,294.83,280.69,2018
+963,5942943,Marcos Sanchez,379,Othello,District 5,336.63,331.7,338.13,372.3,2017
+964,7409708,Oliver Lutz,460,Ellensburg,District 5,339.75,326.55,313.91,322.4,2018
+965,7313590,Adolfo DeRobles,376,Grandview,District 5,344.0,355.85,314.76,308.0,2018
+966,7869502,Noe Dominguez,376,Grandview,District 5,379.07,394.49,367.77,349.99,2018
+967,4613957,Cameron Carroll,504,Central Kitsap,District 3,270.01,260.45,255.94,253.59,2016
+968,5909770,James Konugres,489,Ballard,District 2,273.9,266.67,262.52,262.94,2017
+969,5859721,Mykel Fisher,19375,Bonney Lake,District 3,292.87,266.8,275.13,273.57,2017
+970,5931982,Chris Bianchini,22531,Glacier Peak,District 1,277.76,270.02,265.69,258.47,2017
+971,8559028,Devan Kirk,486,Shorewood,District 1,306.14,271.47,268.0,271.82,2017
+972,5883105,Braeden Sims,483,Mountlake Terrace,District 1,296.2,272.28,266.46,277.03,2017
+973,7376654,James Mwaura,507,Lincoln,District 3,272.55,255.43,251.31,248.52,2018
+974,4613958,Blake Trujillo,504,Central Kitsap,District 3,293.1,273.45,272.98,270.77,2016
+975,4673653,Christian Schwieterman,504,Central Kitsap,District 3,286.0,279.36,273.11,273.71,2016
+976,5942930,Leo Donlea,420,Ingraham,District 2,298.3,273.6,268.87,267.59,2017
+977,7326703,Jonah Franco,544,Kamiakin,District 5,275.24,270.71,260.96,256.71,2018
+978,5947659,William Laird,493,Garfield,District 2,277.24,275.8,257.74,259.57,2017
+979,7434773,Jordan Erickson,475,Everett,District 1,276.62,271.21,272.22,290.4,2018
+980,5932033,Nick Stringer,22531,Glacier Peak,District 1,289.7,278.22,277.23,276.37,2017
+981,7388152,Colin Knechtel,481,Meadowdale,District 1,280.18,276.53,271.11,271.02,2018
+982,5960846,Leul Wolde,404,Lynnwood,District 1,291.7,280.87,280.66,280.59000000000003,2017
+983,6499083,Kevin Mullin,472,Arlington,District 1,324.0,281.54,273.26,266.76,2017
+984,5895370,Edmund Havener,475,Everett,District 1,321.4,285.02,279.77,281.01,2017
+985,7495067,Gregory Panther,39269,Marysville Getchell,District 1,290.72,283.28,274.07,266.81,2018
+986,7441347,Jack O'Brien,488,Stanwood,District 1,292.12,280.36,274.78,272.33,2018
+987,5883113,Nick Leidig,483,Mountlake Terrace,District 1,295.8,292.75,283.67,276.28,2017
+988,7369762,Tim Mandzyuk,22531,Glacier Peak,District 1,295.3,279.16,286.51,274.63,2018
+989,6505065,Channing Frohlich,39269,Marysville Getchell,District 1,305.17,297.42,295.42,293.25,2017
+990,7306514,Michael Lym,485,Oak Harbor,District 1,298.75,295.75,288.97,304.24,2018
+991,7254533,Dawson Andrews,472,Arlington,District 1,302.0,293.57,275.26,268.49,2018
+992,6505079,Anthony LaBrake,39269,Marysville Getchell,District 1,308.48,306.0,312.6,314.21,2017
+993,7369767,Ryan Meyer,22531,Glacier Peak,District 1,310.1,295.39,296.06,299.01,2018
+994,7306495,Benjamin Gasper,485,Oak Harbor,District 1,314.48,275.39,283.0,279.29,2018
+995,7441342,Collin McMillan,488,Stanwood,District 1,329.3,302.47,286.36,283.62,2018
+996,7434783,Adam Sirkis,475,Everett,District 1,332.47,319.58,298.45,304.37,2018
+997,7358094,Ben Korn,486,Shorewood,District 1,320.12,303.77,294.7,299.5900000000001,2018
+998,7265182,Jack Parkinson,486,Shorewood,District 1,320.51,305.18,294.5900000000001,312.57,2018
+999,7358135,James Qiu,486,Shorewood,District 1,325.91,322.7,319.18,327.47,2018
+1000,6490966,Allen Saewong,486,Shorewood,District 1,360.13,329.54,329.56,320.0,2017
+1001,7794632,Cameron Hawk,404,Lynnwood,District 1,331.6,311.34,308.61,296.11,2018
+1002,7358140,Kenassa Sarka,486,Shorewood,District 1,352.29,367.1,361.09,362.55,2018
+1003,6504673,Matthew Hagen,481,Meadowdale,District 1,402.2,364.91,335.11,330.3,2017
+1004,7387803,Vincent Pierce,486,Shorewood,District 1,372.48,348.6,335.8400000000001,323.7,2018
+1005,5913364,Kyle Hastler,481,Meadowdale,District 1,362.56,388.88,348.07,348.6,2017
+1006,7381585,Surafel Muche,422,Nathan Hale,District 2,278.99,270.68,275.48,272.07,2018
+1007,7367026,Isaac Mohn,423,O'Dea,District 2,282.2,275.57,262.56,257.38,2018
+1008,5220710,Dylan Quinn,420,Ingraham,District 2,333.32,317.4,285.98,296.0,2016
+1009,4762180,Sam Brosseau,420,Ingraham,District 2,332.7,316.11,287.14,286.9,2016
+1010,7400212,Derek Faith,418,Eastside Catholic,District 2,288.08,280.18,282.49,289.15,2018
+1011,7438233,Ethan Hume,420,Ingraham,District 2,291.0,291.6,280.28,279.6,2018
+1012,5909772,Sebastian Skepetaris,489,Ballard,District 2,302.0,291.78,282.0900000000001,279.95,2017
+1013,5896131,Jack Killalea,425,Seattle Prep,District 2,299.94,292.41,291.61,275.7,2017
+1014,3635755,Marshall Smith,493,Garfield,District 2,343.58,338.3,324.1,292.8,2015
+1015,6064305,Henry Milodragovich,493,Garfield,District 2,308.0,293.7,271.6,272.69,2017
+1016,4762175,Quentin Maher,420,Ingraham,District 2,334.52,303.6,294.12,314.1,2016
+1017,5890046,Connor Rauch,415,Bishop Blanchet,District 2,313.23,294.4,283.53,284.9,2017
+1018,7367025,Andrew Hogan,423,O'Dea,District 2,294.51,271.22,278.5,271.53,2018
+1019,10636377,Joe Sheh,425,Seattle Prep,District 2,295.8,278.5,269.62,282.81,2018
+1020,7381581,Spencer Otis,422,Nathan Hale,District 2,296.0,287.15,278.72,277.02,2018
+1021,7884233,Blake Wittke,496,Lake Washington,District 2,314.3,308.9,297.43,303.9,2018
+1022,7385828,Graham Godfrey,496,Lake Washington,District 2,317.6,308.4,291.8,277.39,2018
+1023,7884229,Hunter Toyoda,496,Lake Washington,District 2,324.18,299.7,293.3,274.18,2018
+1024,7385831,Israel Slater,496,Lake Washington,District 2,336.8,319.4,305.9,305.18,2018
+1025,3643669,Derek Fromm,489,Ballard,District 2,310.2,305.1,302.0,297.74,2015
+1026,7381583,Zachary King,422,Nathan Hale,District 2,297.77,296.7,285.31,286.38,2018
+1027,4647345,Elijah Dodson,422,Nathan Hale,District 2,327.8,324.78,298.89,280.61,2016
+1028,7381580,Alex Matteson,422,Nathan Hale,District 2,304.6,288.9,272.8,268.05,2018
+1029,4613961,Jason Gordon,504,Central Kitsap,District 3,296.15,282.21,279.5,276.29,2016
+1030,7330941,Cameron Wenman,441,Peninsula,District 3,280.85,276.78,273.15,270.72,2018
+1031,10478102,Aidan Anderson,504,Central Kitsap,District 3,302.21,282.43,283.46,286.12,2016
+1032,4673549,Alex Stimac,504,Central Kitsap,District 3,330.1,305.2,288.41,288.45,2016
+1033,6025427,Elliott Crawford,518,Auburn Riverside,District 3,328.18,289.06,281.45,276.27,2017
+1034,5917880,Boone Tate,518,Auburn Riverside,District 3,343.02,291.5900000000001,284.5900000000001,271.96,2017
+1035,7375121,Alec Ritter,519,Enumclaw,District 3,292.1,278.81,268.45,271.88,2018
+1036,5877122,Caleb Giesbrecht,504,Central Kitsap,District 3,321.83,294.78,272.86,269.17,2017
+1037,7307516,Alex Forte,440,Lakes,District 3,295.4,289.61,292.02,282.37,2018
+1038,5816182,Derrick Howlett,19386,Auburn Mountainview,District 3,309.08,296.73,306.12,290.9,2017
+1039,5913729,Nicolas Bourgeois,524,Sumner,District 3,307.2,298.05,302.6,303.26,2017
+1040,5869143,Jonathan Brewster,441,Peninsula,District 3,313.34,299.74,292.91,288.97,2017
+1041,5869152,Riley Wynn,441,Peninsula,District 3,300.13,301.6,288.6,290.32,2017
+1042,7835195,Ryan Hess,518,Auburn Riverside,District 3,303.76,295.6,286.58,275.66,2018
+1043,5491195,Alexander Ellis,504,Central Kitsap,District 3,324.3,312.8,305.07,302.98,2016
+1044,4297231,Victor Sosa,504,Central Kitsap,District 3,368.24,336.17,333.49,334.49,2017
+1045,5917875,Tyler Penrod,518,Auburn Riverside,District 3,338.05,325.0,314.7,330.63,2017
+1046,5913796,James Lee,524,Sumner,District 3,338.6,327.8,335.9,337.85,2017
+1047,7385638,Andrew Fischer,517,Auburn,District 3,361.23,345.12,337.64,357.5,2018
+1048,7752677,Fisher Pierre,19375,Bonney Lake,District 3,367.75,337.06,351.54,306.09,2018
+1049,5902789,Traven Bills,544,Kamiakin,District 5,298.51,288.26,273.65,284.67,2017
+1050,5902871,Kyler Lee,544,Kamiakin,District 5,293.29,293.8,271.3,262.86,2017
+1051,7326707,Preston Glade,544,Kamiakin,District 5,295.8,272.57,270.69,277.05,2018
+1052,7824014,Keanu Daos,548,Southridge,District 5,306.55,282.16,274.29,270.97,2018
+1053,7326714,Sawyer Moon,544,Kamiakin,District 5,320.0,281.31,286.39,288.35,2018
+1054,6539987,Ethan Karlinsey,494,Inglemoor,District 2,277.46,258.24,263.37,279.95,2017
+1055,5882921,Cameron Wyman,501,Bellarmine Prep,District 3,275.77,259.83,253.48,255.41,2017
+1056,7407679,Yacine Guermali,450,Camas,District 4,288.0,262.03,259.98,263.52,2017
+1057,5935391,Alex Iben,549,Walla Walla,District 5,274.93,262.88,257.17,293.65,2017
+1058,7383338,Said Guermali,450,Camas,District 4,282.92,272.3,257.9,263.1,2015
+1059,5903942,Noah Wallace,478,Lake Stevens,District 1,268.19,264.28,261.18,258.21,2017
+1060,3584715,Ben Mahony,543,Eisenhower,District 6,285.89,279.92,271.0,265.21,2015
+1061,5927757,Devon Walters,525,Tahoma,District 3,271.39,265.89,267.26,278.7,2017
+1062,7421107,Nate Pendleton,491,Eastlake,District 2,265.91,260.51,253.94,260.52,2018
+1063,14077638,Luke George,408,Issaquah,District 2,266.33,265.89,256.51,246.09,2018
+1064,5909535,Cullen McEachern,477,Kamiak,District 1,272.23,268.09,263.09,260.28,2017
+1065,3987303,Alek Schwiesow,551,Moses Lake,District 6,285.25,273.78,272.48,269.47,2015
+1066,7313692,Dawson Besst,525,Tahoma,District 3,269.55,263.3,259.34,256.22,2018
+1067,5174043,Miguel Vargas,543,Eisenhower,District 6,297.79,279.78,269.78,269.85,2016
+1068,5903758,Trevor Allen,478,Lake Stevens,District 1,271.61,271.08,264.93,268.22,2017
+1069,12296391,Hezekiah Goodwin,521,Kentlake,District 3,286.5,274.93,276.63,265.77,2017
+1070,3584713,Zach Justo,543,Eisenhower,District 6,296.22,285.18,280.14,274.97,2015
+1071,5858557,Aaron Leavens,487,Snohomish,District 1,296.5,279.03,266.4,259.23,2017
+1072,7865561,Blake Braaten,478,Lake Stevens,District 1,279.09000000000003,270.08,268.36,263.04,2018
+1073,7305781,Liam Anderson,487,Snohomish,District 1,281.88,276.79,281.36,296.4,2018
+1074,5933311,Alvin Nguyen,479,Mariner,District 1,301.9,290.71,287.03,293.43,2017
+1075,6506544,Mel Miller,487,Snohomish,District 1,304.98,299.43,297.05,291.07,2017
+1076,14182719,Isaiah Funston,482,Monroe,District 1,304.78,293.5900000000001,278.26,273.3,2018
+1077,7833387,Jacob Quintana,487,Snohomish,District 1,310.89,299.21,288.63,284.35,2018
+1078,5858567,Michael Cooley,487,Snohomish,District 1,337.0900000000001,310.98,276.73,286.71,2017
+1079,7351552,Zachary Marxer,473,Cascade (Everett),District 1,312.1,316.58,309.62,302.6,2018
+1080,7395215,Nathan McGinty,478,Lake Stevens,District 1,315.0,306.21,299.0,290.08,2018
+1081,7408965,Elliot Pak,477,Kamiak,District 1,322.05,305.92,310.65,316.2,2018
+1082,7762382,Brandon Lopez,479,Mariner,District 1,329.33,293.8400000000001,290.6,290.49,2018
+1083,7323131,Alexander Laucius,499,Skyline,District 2,284.0,278.8,270.54,267.21,2017
+1084,7251809,Kyle Nickum,497,Redmond,District 2,281.92,278.97,268.06,273.98,2018
+1085,1448125,Sriram Shreyas,499,Skyline,District 2,356.2,307.1,290.0,285.1,2015
+1086,6540004,Wilson Turk,494,Inglemoor,District 2,297.7,285.5,267.22,272.18,2017
+1087,7261903,Brayden Schultz,494,Inglemoor,District 2,285.56,274.92,271.42,264.78,2018
+1088,6511651,Makennan Hurd,499,Skyline,District 2,307.0,286.5,273.01,270.84,2017
+1089,4671644,Isaac Uselman,499,Skyline,District 2,305.13,294.49,287.95,289.29,2016
+1090,5902363,Conor Wilson,491,Eastlake,District 2,292.61,288.4,284.5,275.88,2017
+1091,7309750,Jenner Sapienza,408,Issaquah,District 2,289.7,282.0,276.14,274.31,2018
+1092,5804487,Ben Visse,497,Redmond,District 2,319.2,290.3,295.25,302.62,2017
+1093,7323126,Connor Edson,499,Skyline,District 2,292.5,269.18,259.9,259.06,2018
+1094,7309751,Dil Thiagarajan,408,Issaquah,District 2,293.0,284.24,282.3,279.32,2018
+1095,5055170,Alex Chen,497,Redmond,District 2,348.0,322.18,295.32,293.29,2015
+1096,4693918,Jacob Montiel-Bravo,497,Redmond,District 2,313.59,291.54,294.47,297.52,2016
+1097,7309677,Jordan Crist,408,Issaquah,District 2,295.5,284.47,274.12,266.93,2018
+1098,7877884,Amrit Krishnan,499,Skyline,District 2,296.9,290.45,287.75,283.57,2018
+1099,7309673,Dan Constantinescu,408,Issaquah,District 2,297.4,292.1,305.6,296.75,2018
+1100,4671634,Andrew Schweitzer,499,Skyline,District 2,326.8,310.0,298.7,297.97,2016
+1101,4735250,Danny Suver,491,Eastlake,District 2,330.7,316.03,299.8,286.2,2016
+1102,5899712,Chase Cleary,499,Skyline,District 2,303.1,300.0,292.61,290.3,2017
+1103,7433181,Jorge Zuniga,490,Bothell,District 2,301.68,307.85,316.05,294.33,2018
+1104,3599534,Jordan Hamilton,408,Issaquah,District 2,343.1,324.7,306.9,302.56,2015
+1105,7894113,Grayson McDowell,491,Eastlake,District 2,303.0,304.1,314.29,295.77,2018
+1106,5168945,Benjamin Lauzon,491,Eastlake,District 2,334.32,329.2,307.59,329.4,2016
+1107,7399917,Michael Chovanak,497,Redmond,District 2,308.91,297.45,295.82,303.56,2018
+1108,7402392,Jesse Kaas,19383,Graham-Kapowsin,District 3,276.46,269.02,264.87,279.94,2018
+1109,7310968,Spencer Fischer,501,Bellarmine Prep,District 3,278.35,265.22,254.26,259.2,2018
+1110,5926957,Jack Shields,506,Gig Harbor,District 3,275.89,279.11,270.41,261.45,2017
+1111,5927742,Colton Egberg,525,Tahoma,District 3,316.55,280.08,280.61,275.27,2017
+1112,5900620,Ben Jacot,527,Curtis,District 3,291.5900000000001,282.47,268.23,266.24,2017
+1113,5850147,Luke Ostrander,501,Bellarmine Prep,District 3,279.85,283.33,268.3,271.92,2017
+1114,7407193,Andrew Oslin,531,Puyallup,District 3,285.31,272.33,270.77,268.6,2018
+1115,6464881,Brock O'Neal,522,Kentridge,District 3,286.31,285.87,283.57,282.31,2017
+1116,5929084,Austin Bass,19369,Todd Beamer,District 3,298.42,288.33,277.62,284.49,2017
+1117,5901574,Matt Nechiporuk,523,Kentwood,District 3,292.88,289.69,288.03,288.0,2017
+1118,7390242,Drew Hovde,529,Emerald Ridge,District 3,292.53,284.39,276.68,273.91,2018
+1119,7375754,Lucas Pierson,501,Bellarmine Prep,District 3,292.89,283.55,282.67,276.66,2018
+1120,7368941,Dylan Miller,510,Olympia,District 3,296.54,279.4,288.5900000000001,286.16,2018
+1121,7381684,Ben Van Haitsma,510,Olympia,District 3,296.79,291.13,291.18,293.06,2018
+1122,7408158,Finlay Adamson,506,Gig Harbor,District 3,297.44,290.0,280.46,269.68,2018
+1123,5940612,Levi Hoffman,506,Gig Harbor,District 3,302.77,300.0,296.64,294.5900000000001,2017
+1124,5901408,Max Leung-Wagner,510,Olympia,District 3,307.28,307.54,302.48,294.56,2017
+1125,5940618,Caleb Rochette,506,Gig Harbor,District 3,338.9,314.34,301.31,302.93,2017
+1126,7310967,Evan Root,501,Bellarmine Prep,District 3,314.7,299.75,306.9,315.64,2018
+1127,7356397,Jackson Hall,510,Olympia,District 3,324.49,314.66,293.75,286.64,2018
+1128,7780485,Lindon Coulter-Peterson,501,Bellarmine Prep,District 3,327.99,304.09,303.5,307.1,2018
+1129,7356399,Jasper Hunter,510,Olympia,District 3,329.48,320.36,311.7,294.08,2018
+1130,7796611,Benjamin Easley,501,Bellarmine Prep,District 3,337.86,327.38,314.11,321.55,2018
+1131,7356357,Ben Kogut,510,Olympia,District 3,341.39,332.0900000000001,341.56,351.94,2018
+1132,6529413,Chan-Tam Huynh,456,Timberline,District 3,378.71,346.81,350.36,341.71,2017
+1133,5930198,Colton Smith,533,Spanaway Lake,District 3,323.0,299.85,292.28,285.5900000000001,2017
+1134,7407191,Colin Monaghan,531,Puyallup,District 3,300.48,286.12,275.23,271.55,2018
+1135,7397081,Brody Sodon,527,Curtis,District 3,309.81,293.98,280.65,285.02,2018
+1136,5959903,Quincy Osterlund,526,Bethel,District 3,326.29,336.0,303.18,335.4,2017
+1137,7882381,Matthew Ferguson,526,Bethel,District 3,393.0,308.34,296.99,300.14,2018
+1138,7381365,Sean Flynn,541,Skyview,District 4,284.73,270.9,289.6,287.89,2018
+1139,5915205,Nick Duffy,450,Camas,District 4,299.33,295.6,293.4,278.55,2017
+1140,6531188,Luke Albert,450,Camas,District 4,302.0,299.1,275.73,298.96,2017
+1141,7893834,Kyle Bare,537,Heritage,District 4,304.3,295.02,300.9,302.83,2018
+1142,7893957,Justin Southard,537,Heritage,District 4,310.3,292.0,281.6,280.94,2018
+1143,6562464,Josh Newberry,537,Heritage,District 4,329.92,314.4,315.1,322.0,2017
+1144,7410836,Aaron Avery,20354,Union,District 4,315.0,300.33,296.3,285.7,2018
+1145,5945736,Caleb Newberry,537,Heritage,District 4,329.1,316.2,315.5,300.1,2017
+1146,7358480,Jase Matson,535,Battle Ground,District 4,316.45,308.2,317.7,305.69,2018
+1147,5910145,Justin Lefever,536,Evergreen (Vancouver),District 4,362.0,347.9,335.25,313.0,2017
+1148,7328597,Jacob Fertick,536,Evergreen (Vancouver),District 4,366.4,359.0,340.0,335.2,2018
+1149,5901487,Chad Murphy,547,Richland,District 5,292.24,286.3400000000001,300.62,320.76,2017
+1150,7380988,Ismael Castaneda,546,Pasco,District 5,295.7,291.5,281.47,274.7,2018
+1151,7423881,Anthony Stone,547,Richland,District 5,296.61,276.11,271.86,259.69,2018
+1152,7381671,Jesse Todd,547,Richland,District 5,302.0,291.72,277.59000000000003,270.76,2018
+1153,5901486,Mark McDuffie,547,Richland,District 5,315.3,303.26,293.41,288.43,2017
+1154,7381601,Trevor Allwine,547,Richland,District 5,323.06,319.06,334.03,318.9,2018
+1155,7381648,Ryle Hollick,547,Richland,District 5,326.45,306.54,281.03,281.01,2018
+1156,7830904,Nathan Talbot,547,Richland,District 5,336.0,307.98,306.64,291.4,2018
+1157,3584714,Jose Maciel,543,Eisenhower,District 6,289.22,286.7,299.06,277.38,2015
+1158,6503678,Drew Whited,550,Eastmont,District 6,306.62,284.1,280.62,277.31,2017
+1159,7357112,Rogelio Mares,543,Eisenhower,District 6,296.44,274.93,274.32,274.05,2018
+1160,7837070,Antonio Heredia,543,Eisenhower,District 6,305.61,298.14,310.45,301.09,2018
+1161,5224011,Garrett Barnes,550,Eastmont,District 6,350.05,321.87,311.41,309.89,2016
+1162,4740838,Tommy Marquis,550,Eastmont,District 6,344.57,343.24,321.76,303.21,2016
+1163,3650062,Eli Kahn,552,Wenatchee,District 6,345.52,325.45,321.82,324.17,2015
+1164,7351963,Andrew Wieczorek,552,Wenatchee,District 6,324.39,300.62,302.21,308.51,2018
+1165,4611354,Trenton Springen,551,Moses Lake,District 6,329.45,329.67,325.19,353.96,2016
+1166,7844018,Zachery Owens,551,Moses Lake,District 6,325.5,303.42,276.3,279.49,2018
+1167,5224019,Luis Cortez,550,Eastmont,District 6,341.53,320.39,326.23,323.57,2016
+1168,6503664,Josh Strang,550,Eastmont,District 6,336.38,334.5900000000001,340.06,332.51,2017
+1169,7399283,Austin Sandoval,464,Sunnyside,District 6,337.11,326.79,307.75,293.54,2018
+1170,7866795,Harlow Huber,550,Eastmont,District 6,351.47,313.1,309.81,315.6,2018
+1171,7389455,Cameron Bertomeu,550,Eastmont,District 6,407.19,381.99,367.83,367.0,2018
+1172,7406011,Henry Gruen,425,Seattle Prep,District 2,308.0,295.7,287.63,281.0,2018
+1173,7394489,Paul Codd,415,Bishop Blanchet,District 2,326.3,293.1,312.2,291.5,2018
+1174,4767835,Jacob Nelson,423,O'Dea,District 2,341.0900000000001,307.77,313.0,296.39,2016
+1175,7381577,Jack Anderson,422,Nathan Hale,District 2,308.33,296.56,292.36,297.69,2018
+1176,5890048,Liam Sexton,415,Bishop Blanchet,District 2,320.65,313.1,297.4,304.67,2017
+1177,7795973,Drew Schornak,415,Bishop Blanchet,District 2,332.7,301.4,286.6,277.1,2018
+1178,5908224,Skyler Hallinan,414,Bainbridge,District 2,325.36,325.53,311.66,313.09,2017
+1179,5934641,Max Randal,497,Redmond,District 2,298.22,310.21,280.54,271.12,2017
+1180,7801056,Sebastian McRae,497,Redmond,District 2,324.0,286.99,321.69,305.25,2018
+1181,7309708,Jared Putney,408,Issaquah,District 2,310.87,284.9,273.0,269.52,2018
+1182,7329600,Jeffrey Yeh,412,Newport (Bellevue),District 2,312.0,296.7,299.0900000000001,287.51,2018
+1183,7430845,Gene Eddy,499,Skyline,District 2,314.9,303.6,301.4,302.11,2018
+1184,7407743,AJ Chopra,19369,Todd Beamer,District 3,300.52,284.38,269.7,259.91,2018
+1185,6466132,Maamoon Saleh,522,Kentridge,District 3,303.45,298.62,287.02,274.03,2017
+1186,7368966,Isaiah Eller,522,Kentridge,District 3,301.2,289.0,268.8,272.0,2018
+1187,7713347,Nick Shepard,521,Kentlake,District 3,305.27,298.21,297.1,271.45,2018
+1188,5899286,Nathan Shine,522,Kentridge,District 3,321.72,320.19,298.53,307.76,2017
+1189,5899278,Steven Kassebaum,522,Kentridge,District 3,319.31,298.28,301.06,293.16,2017
+1190,5903781,Wyatt Loranger,528,Decatur,District 3,339.25,317.12,309.75,315.77,2017
+1191,5927741,Benjamin Bruneel,525,Tahoma,District 3,355.46,337.66,311.71,308.0,2017
+1192,10991975,Andrew Simon,504,Central Kitsap,District 3,286.85,270.63,269.87,265.26,2018
+1193,7851564,Zachary Heffron,422,Nathan Hale,District 2,311.55,291.8,280.74,290.29,2018
+1194,5934634,Alex Hsu,497,Redmond,District 2,331.58,328.56,317.92,297.9,2017
+1195,7844674,Aubie Pouncey,482,Monroe,District 1,355.8,357.0,317.73,319.98,2018
+1196,7877775,Eugene Cabamalan,499,Skyline,District 2,332.98,337.37,290.8,289.2,2018
+1197,7421099,Rusdan Crook,491,Eastlake,District 2,324.89,308.41,296.2,327.01,2018
+1198,6540003,Tommy Tradal,494,Inglemoor,District 2,319.89,311.56,310.47,299.95,2017
+1199,7261898,Benjamin Peltier,494,Inglemoor,District 2,352.38,341.11,312.56,301.23,2017
+1200,7329470,Brandon Chan,412,Newport (Bellevue),District 2,375.9,335.8,308.3,293.74,2018
+1201,8722162,Nate Coats,491,Eastlake,District 2,341.04,332.8400000000001,313.45,328.72,2018
+1202,5920566,Ian Hirons,530,Federal Way,District 3,350.78,337.32,339.55,319.51,2017
+1203,7369000,Conner Wilson,522,Kentridge,District 3,342.42,336.08,329.92,355.43,2018
