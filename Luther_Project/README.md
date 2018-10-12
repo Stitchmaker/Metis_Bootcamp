@@ -1,9 +1,16 @@
 # Metis_Bootcamp
 
-### 01-mta
-First week project. 
+### Project Luther
+Weeks 2 & 3 bootcamp project
 
-files - 
-* Benson_Challenge.ipynb
+**Project_Luther_Proposal.pdf** is a file with the project proposal
+**Project_Luther_DanaL_Summary.pdf** is a file with the summary of the project findings
 
-### 02-primer
+# files - 
+* **1AllDistrict_*.csv**  where * is boy1600, girl1600, boy400 or girl400 for each race investigated
+* **athlete_list_*.csv** where * is boy1600, girl1600, boy400 or girl400 for each race investigated
+* **WA_athletic_districts1.csv** is a file containing columns for each athletic district in Washington State.  Each column contains the schools in the districts.  This was used to connct the school names to the district for each athlete.
+
+# subdirectory -
+* code is a directory that includes the ipynb files for the project
+
