@@ -70,7 +70,7 @@ You can comment in SQL by using /* and */
 
  * Which customers are from the UK?
  ```sql
- SELECT CustomerName FROM Customers
+SELECT CustomerName FROM Customers
 WHERE Country = 'UK';
 ```
 Around the Horn   
@@ -92,12 +92,13 @@ Ernst Handel
 
  * Which supplier has the highest average product price?
  ```sql
- SELECT Suppliers.SupplierName, AVG(Products.Price) AS PriceAve FROM Products
+SELECT Suppliers.SupplierName, AVG(Products.Price) AS PriceAve FROM Products
 JOIN Suppliers ON Suppliers.SupplierID = Products.SupplierID
-GROUP BY Products.Price
+GROUP BY Suppliers.SupplierID
 ORDER BY PriceAve DESC
+LIMIT 1;
 ```
-Aux joyeux ecclésiastiques	($263.5)    
+Aux joyeux ecclésiastiques	($140.75)    
  * How many different countries are all the customers from? (*Hint:* consider [DISTINCT](http://www.w3schools.com/sql/sql_distinct.asp).)
  ```sql
  SELECT DISTINCT Country FROM [Customers]
@@ -111,12 +112,13 @@ FROM
     JOIN Products ON Categories.CategoryID = Products.CategoryID
     JOIN OrderDetails ON OrderDetails.ProductID = Products.ProductID
 GROUP BY CategoryName
-ORDER BY Cnt DESC;
+ORDER BY Cnt DESC
+LIMIT 1;
 ```
 Dairy Products (100)   
  * What was the total cost for each order?
  ```sql
- SELECT Orders.OrderID, SUM(OrderDetails.Quantity*Products.Price) AS Cost
+SELECT Orders.OrderID, SUM(OrderDetails.Quantity*Products.Price) AS Cost
 FROM
 	Orders
     JOIN Products     ON OrderDetails.OrderID = Orders.OrderID
@@ -126,7 +128,7 @@ ORDER BY Cost DESC;
 ```
  * Which employee made the most sales (by total cost)?
  ```sql
- SELECT Employees.FirstName, Employees.LastName,
+SELECT Employees.FirstName, Employees.LastName,
     SUM(OrderDetails.Quantity*Products.Price) AS Cost
 FROM
 	Employees
@@ -134,26 +136,24 @@ FROM
     JOIN OrderDetails ON OrderDetails.OrderID = Orders.OrderID
     JOIN Products     ON OrderDetails.ProductID = Products.ProductID
 GROUP BY Employees.EmployeeID
-ORDER BY Cost DESC;
+ORDER BY Cost DESC
+LIMIT 1;
 ```
 Margaret Peacock ($105,696.50)   
  * Which employees have BS degrees? (*Hint:* look at the [LIKE](http://www.w3schools.com/sql/sql_like.asp) operator.)
 ```sql
- SELECT * FROM [Employees]
+SELECT * FROM [Employees]
 WHERE Notes LIKE '%BS%'
 ```
 Janet Leverling   
 Steven Buchanan   
  * Which supplier of three or more products has the highest average product price? (*Hint:* look at the [HAVING](http://www.w3schools.com/sql/sql_having.asp) operator.)
  ```sql
- SELECT SupplierName, COUNT(Products.SupplierID), AVG(Products.Price) AS AvePrice
+SELECT SupplierName, COUNT(Products.SupplierID), AVG(Products.Price) AS AvePrice
 FROM
 	Suppliers
     JOIN Products     ON Suppliers.SupplierID = Products.SupplierID
 GROUP BY SupplierName
-HAVING COUNT(Products.SupplierID) > 3;
+HAVING COUNT(Products.SupplierID) >= 3;
 ```
-New Orleans Cajun Delights (4)   
-Pavlova, Ltd (5)   
-Putzer Lebensmittelgroßmärkte AG (5)   
-Specialty Biscuits, Ltd. (4)   
+Tokyo Traders ($46) 
