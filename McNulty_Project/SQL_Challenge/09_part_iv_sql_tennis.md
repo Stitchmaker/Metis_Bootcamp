@@ -243,6 +243,19 @@ This challenge uses only SQL queries. Please submit answers in a markdown file.
 1. Using the same tennis data, find the number of matches played by
    each player in each tournament. (Remember that a player can be
    present as both player1 or player2).
+```sql
+SELECT new_table.player, COUNT(new_table.player) as matches
+FROM
+(
+      SELECT player1 AS player
+      FROM us_men_2013
+      UNION ALL
+      SELECT player2 AS player
+      FROM us_men_2013
+) new_table
+GROUP BY new_table.player;
+
+```
 
 2. Who has played the most matches total in all of US Open, AUST Open, 
    French Open? Answer this both for men and women.
