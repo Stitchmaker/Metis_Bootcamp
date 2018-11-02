@@ -21,12 +21,17 @@ More information for this project can be found in the following files:
 * **McNulty_Presentation.pdf** is a file of the presentation slides for this project   
 * **McNulty_Summary.pdf** is a file with the summary of the project findings   
 
-## Files  
+### Files  
 * **McNulty_DataRead.ipynb**   
 * **McNulty_Visualize.ipynb**
 * **McNulty_Analysis.ipynb** 
 * subdirectory **data** includes the data files for the project
 
-## Data sources
+### Data sources
 * Bureau of Transportation web site (<a href="http://transtats.bts.gov">transtats.bts.gov</a>) which has all the flight arrival and departures up to July 2018
 * NOAA web site (www.ncdc.noaa.gov) which has historical weather data by location
+
+---
+
+### SQL Challenge
+Not part of Project McNulty.  Exercises in SQL.
