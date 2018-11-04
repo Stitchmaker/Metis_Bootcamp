@@ -4,18 +4,6 @@ import pickle
 pipeline = pickle.load(open('./model/Seatac_model.pkl', 'rb'))
 
 example = {'Airline': 'AA',
-      #'OP_UNIQUE_CARRIER_AA': 0,
-      #'OP_UNIQUE_CARRIER_AS': 0,
-      #'OP_UNIQUE_CARRIER_B6': 0,
-      #'OP_UNIQUE_CARRIER_DL': 1,
-      #'OP_UNIQUE_CARRIER_F9': 0,
-      #'OP_UNIQUE_CARRIER_G4': 0,
-      #'OP_UNIQUE_CARRIER_HA': 0,
-      #'OP_UNIQUE_CARRIER_HK': 0,
-      #'OP_UNIQUE_CARRIER_OO': 0,
-      #'OP_UNIQUE_CARRIER_UA': 0,
-      #'OP_UNIQUE_CARRIER_VX': 0,
-      #'OP_UNIQUE_CARRIER_WN': 0,
       'MONTH': 7,
       'DAY_OF_WEEK': 5,
       'CRS_ARR_TIME': 1100,
@@ -77,6 +65,14 @@ def make_prediction(features):
        features['JFK_SNOW'], 
        features['JFK_TAVG'],
        features['JFK_AWND']]).reshape(1,-1)
+
+    # This X should give probability of 0.572 with prediction 1 for Delay
+    #X = np.array([-0.26761865, -0.78077626, -0.11515749, -0.42431955, -0.08438764,  0., \
+    #     -0.06945212, -0.10599023, -0.42647294, -0.2752299,   7.94753871, -0.37951458,\
+    #     -0.4724069,  -0.47445657,  0.98799467, -0.13575537, -0.38044794, -0.08644293,\
+    #     0.21095946, -0.7189438,  -0.12632908,  0.10205602,  1.1529054,  -0.11560818,\
+    #     0.25133512, -0.53186869]).reshape(1,-1)
+    #print(X)
     
     prob_delay = pipeline.predict_proba(X)[0, 1]
 
