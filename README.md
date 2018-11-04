@@ -22,3 +22,13 @@ Read athlete data from www.athletic.net for Washington state high school athlete
 
 ### McNutty_Project
 Weeks 4, 5 and half of 6
+
+Supervised Machine Learning and data visualization
+
+Predict whether a flight is on-time or delayed as it arrives at Seatac Airport in Seattle, WA.  
+
+### Fletcher_Project
+Half of week 6 and Weeks 7 & 8
+
+Natural Language Processing and Unsupervised Learning
+
