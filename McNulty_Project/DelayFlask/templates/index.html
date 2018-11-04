@@ -1,0 +1,136 @@
+<html>
+<body>
+<h1>Seatac Ontime Flight Calculator</h1>
+
+Airline
+<select id="Airline" name="Airline">
+  <option value='AK'>Alaska Airlines</option> 
+  <option value='G4'>Allegiant Air</option> 
+  <option value='AA'>American Airlines</option> 
+  <option value='DL'>Delta Air Lines</option> 
+  <option value='B6'>Jet Blue</option> 
+  <option value='G4'>Allegiant</option>
+  <option value='F9'>Frontier Airlines</option> 
+  <option value='HA'>Hawaiian Airlines</option> 
+  <option value='NK'>Spirit Airlines</option> 
+  <option value='OO'>SkyWest Airlines</option> 
+  <option value='UA'>United Airlines</option> 
+  <option value='VX'>Virgian America</option> 
+  <option value='WN'>Southwest Airlines</option> 
+</select><br>
+
+Month
+<select id="MONTH", name="MONTH">
+  <option value=1>January</option>
+  <option value=2>February</option>
+  <option value=3>March</option>
+  <option value=4>April/</option>
+  <option value=5>May</option>
+  <option value=6>June</option>
+  <option value=7>July</option>
+  <option value=8>August</option>
+  <option value=9>September</option>
+  <option value=10>October</option>
+  <option value=11>November</option>
+  <option value=12>December</option>
+</select><br>
+
+Day of Week
+<select id="DAY_OF_WEEK", name="DAY_OF_WEEK">
+  <option value=1>Monday</option>
+  <option value=2>Tuesday</option>
+  <option value=3>Wednesday</option>
+  <option value=4>Thursday</option>
+  <option value=5>Friday</option>
+  <option value=6>Saturday</option>
+  <option value=7>Sunday</option>
+</select><br>
+
+Arrival Time <input type="Number" id = "CRS_ARR_TIME"><br>
+Flight Distance (miles) <input type="Number" id = "DISTANCE"><br>
+Flight Duration (minutes) <input type="Number" id = "CRS_FLIGHT_TIME"><br>
+
+Seattle Weather:       TEMP <input type="Number" id = "SEA_TEMP">
+                 SNOW <input type="Number" id = "SEA_SNOW">
+                 WIND <input type="Number" id = "SEA_AWND"><br>    
+CHicago Weather:       TEMP <input type="Number" id = "SEA_TEMP">
+                 SNOW <input type="Number" id = "SEA_SNOW">
+                 WIND <input type="Number" id = "SEA_AWND"><br> 
+New York City Weather: TEMP <input type="Number" id = "SEA_TEMP">
+                 SNOW <input type="Number" id = "SEA_SNOW">
+                 WIND <input type="Number" id = "SEA_AWND"><br> <br>
+<div>
+  <button id="submit">Make prediction</button>
+</div>
+Our prediction is:
+<table>
+  <tr><td>Your flight will be</td><td id="hard_predict"></td></tr>
+  <tr><td>With a probability of </td><td id="soft_predict"></td></tr>
+</table>
+
+</body>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<script>
+$('#submit').click( () => { cool(); } );
+
+  function cool(){
+    let features = {
+      'Airline': $('#Airline').val(),
+      'MONTH': $('#MONTH').val(),
+      //'DAY_OF_WEEK': $('#DAY_OF_WEEK').val(),
+      //'CRS_ARR_TIME': $('#CRS_ARR_TIME').val(),
+      //'CRS_FLIGHT_TIME': $('#CRS_FLIGHT_TIME').val(),
+      'DISTANCE': $('#DISTANCE').val(), 
+      //'SEA_SNOW': $('#SEA_SNOW').val(), 
+      //'SEA_TAVG': $('#SEA_TAVG').val(),
+      //'SEA_AWND': $('#SEA_AWND').val(), 
+      //'ORD_SNOW': $('#ORD_SNOW').val(), 
+      //'ORD_TAVG': $('#ORD_TAVG').val(),
+      //'ORD_AWND': $('#ORD_AWND').val(),
+      //'JFK_SNOW': $('#JFK_SNOW').val(), 
+      //'JFK_TAVG': $('#JFK_TAVG').val(),
+      //'JFK_AWND': $('#JFK_AWND').val()
+      //'MONTH': 7,
+      'DAY_OF_WEEK': 5,
+      'CRS_ARR_TIME': 1100,
+      'CRS_FLIGHT_TIME': 200,
+      //'DISTANCE': 1000, 
+      'SEA_SNOW': 1, 
+      'SEA_TAVG': 77,
+      'SEA_AWND': 1, 
+      'ORD_SNOW': 1, 
+      'ORD_TAVG': 77,
+      'ORD_AWND': 1,
+      'JFK_SNOW': 1, 
+      'JFK_TAVG': 77,
+      'JFK_AWND': 0
+    }
+
+    console.log(features);
+
+    $.ajax({
+      type: "POST",
+      contentType: "application/json; charset=utf-8",
+      url: "/predict",  // Replace with URL of POST handler
+      dataType: "json",
+      async: true,
+      data: JSON.stringify(features),
+      success: (result) => {
+        $('#hard_predict').html(result['prediction'] ? 'delayed' : 'on time' );
+        $('#soft_predict').html(result['prob_delay']);
+      },
+      error: (result) => {
+        alert('I dunno what you did');
+      }
+    })
+
+  }
+
+
+
+</script>
+
+
+</html>
+
