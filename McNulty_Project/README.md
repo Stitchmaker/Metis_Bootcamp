@@ -26,6 +26,7 @@ More information for this project can be found in the following files:
 * **McNulty_Visualize.ipynb**
 * **McNulty_Analysis.ipynb** 
 * subdirectory **data** includes the data files for the project
+* subdirectory **DelayFlask** includes files for a simple flask app to calculate flight delay prediction
 
 ### Data sources
 * Bureau of Transportation web site (<a href="http://transtats.bts.gov">transtats.bts.gov</a>) which has all the flight arrival and departures up to July 2018
