@@ -30,5 +30,13 @@ Predict whether a flight is on-time or delayed as it arrives at Seatac Airport i
 ### Fletcher_Project
 Half of week 6 and Weeks 7 & 8
 
-Natural Language Processing and Unsupervised Learning
+Natural Language Processing and Unsupervised Learning   
 
+Examine NY Times articles from the past 4 years and look for trends in topics.
+
+### Kojak_Project
+Weeks 9 to 12   
+
+Final Project   
+
+Generate industrial chilled water heat exchanger performance curves.
