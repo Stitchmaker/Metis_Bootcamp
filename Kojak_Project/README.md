@@ -10,13 +10,11 @@ More information for this project can be found in the following files:
 * **Kojak_Summary.pdf** is a file with the summary of the project findings   
 
 ### Files  
-* **Kojak_DataExploration.ipynb**   
-* **Kojak_DataExploration_Chiller.ipynb**   
-* **Kojak_ExtractChillerData.ipynb**   
+* **Kojak_DataExploration_Chiller.ipynb** - Pull lift_lines (lnes of constant lift) from the model and actual chiller data and plot in various configurations.
+* **Kojak_ExtractChillerData.ipynb** - Read csv files from Optimum Energy and create unique csv files for each chiller.  The original data files include all chillers from a single plant which included 2 to 12 chillers.   
 * **Kojak_LinearRegression.ipynb**   
-* **Kojak_LinearRegression_AllPlants.ipynb**   
-* **Kojak_LinearRegression_SelectPlants.ipynb**  
-* **Kojak_OptimizePlant.ipynb**   
+* **Kojak_LinearRegression_SelectPlants.ipynb**   
+* **Kojak_OptimizePlant.ipynb** - Given performace curves for a set of chillers for a chilled water plant and a required number of tons and $\Delta T$ Lift, predict operating point for plant which gives the minimum operating kW.  Uses scipy optimize.minimize library.   
 
 * subdirectory **data** includes the data files for the project
 
