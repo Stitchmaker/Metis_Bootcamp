@@ -1,11 +1,5 @@
 ## Metis_Bootcamp
 
-### 01-mta
-First week challenge project. 
-
-files - 
-* Benson_Challenge.ipynb
-
 ### Benson_Project
 Week 1
  
@@ -35,7 +29,7 @@ Natural Language Processing and Unsupervised Learning
 Examine NY Times articles from the past 4 years and look for trends in topics.
 
 ### Kojak_Project
-Weeks 9 to 12   
+Weeks 9 to half of week 12   
 
 Final Project   
 
