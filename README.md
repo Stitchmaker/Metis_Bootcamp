@@ -29,11 +29,7 @@ Natural Language Processing and Unsupervised Learning
 Examine NY Times articles from the past 4 years and look for trends in topics.
 
 ### Kojak_Project
-<<<<<<< HEAD
 Weeks 9 to half of week 12  
-=======
-Weeks 9 to half of week 12   
->>>>>>> c60d8013625f54eea3660f4db776b43a2f1effa3
 
 Final Project   
 
