@@ -3,8 +3,9 @@ Project from weeks 9, 10, 11 and half of 12 of the Meetis Bootcamp
 
 This project was a final, open ended project.   
 
+Optimum Energy is a local Seattle company that optimizes chiller plants, although they do not currently use machine learning.  They do have data for chiller plants and were generous enough to share the data.  The data consisted of 30 York YK chillers in 8 distinct configurations```
 
-
+In this project I used linear regression to predict the chiller performance curves.
 
 More information for this project can be found in the following files:   
 * **Kojak_Proposal.pdf** is a file with the project proposal   
